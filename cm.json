@@ -1,38 +1,26 @@
 {
   "status": "show",
-
   "menu_name": "Ngô Hồng Thái",
   "history_name": "Lịch Sử Vòng",
   "auto_name": "Tự Động",
-
   "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
-
   "version": "3.5.2540",
-
   "update_url": "https://nhtspeed.io.vn",
-
   "telegram_url": "https://api.nhtspeed.io.vn/tele",
   "zalo_url": "https://api.nhtspeed.io.vn/zalobox",
   "zalo_nht": "https://api.nhtspeed.io.vn/ngohongthai",
-
   "announcement": "Chào mừng bạn đến với Speed mới nhất của I am NHT. Chúc bạn chơi game vui vẻ!",
-
   "announcement_id": "thong_bao_001",
-
   "alert_title": "Thông Báo I am NHT",
-
   "update_msg": "Đã có phiên bản mới (v%@). Vui lòng cập nhật để trải nghiệm tốt nhất.",
-
   "btn_update_now": "Cập Nhật Ngay",
   "btn_update_later": "Để Sau",
   "btn_understood": "Đã Hiểu",
-
   "speed": {
     "symbol": 9,
     "hammer": 39,
     "pig": 79,
     "spin": 108
   },
-
   "fps_name": "NHTSPEED.IO.VN"
 }
