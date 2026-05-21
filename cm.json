@@ -1,46 +1,16 @@
 {
   "status": "show",
-
   "menu_name": "Ngô Hồng Thái",
   "history_name": "Lịch Sử Vòng",
   "auto_name": "Tự Động",
-  "fps_name": "NHTSPEED.IO.VN",
-
-  "version": "3.5.2540",
-
   "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
-
+  "version": "3.5.2540",
   "update_url": "https://nhtspeed.io.vn",
   "telegram_url": "https://api.nhtspeed.io.vn/tele",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "z_after_logo_url": "https://api.nhtspeed.io.vn/ngohongthai",
   "zalo_url": "https://api.nhtspeed.io.vn/zalobox",
   "zalo_nht": "https://api.nhtspeed.io.vn/ngohongthai",
-
-  "update_name_vi": "Cập Nhật",
-  "update_name_en": "Update",
-
-  "telegram_name_vi": "Telegram",
-  "telegram_name_en": "Telegram",
-
-  "group_name_vi": "Nhóm",
-  "group_name_en": "Group",
-
-  "admin_name_vi": "Admin",
-  "admin_name_en": "Admin",
-
-  "color_title_vi": "Tô màu",
-  "color_title_en": "Color",
-
-  "reset_color_vi": "Đặt lại màu",
-  "reset_color_en": "Reset Color",
-
-  "show_fps_vi": "Hiện FPS",
-  "show_fps_en": "Show FPS",
-
-  "hide_fps_vi": "Ẩn FPS",
-  "hide_fps_en": "Hide FPS",
-
   "announcement": "Chào mừng bạn đến với Speed mới nhất của I am NHT. Chúc bạn chơi game vui vẻ!",
   "announcement_id": "thong_bao_001",
   "alert_title": "Thông Báo I am NHT",
@@ -48,11 +18,19 @@
   "btn_update_now": "Cập Nhật Ngay",
   "btn_update_later": "Để Sau",
   "btn_understood": "Đã Hiểu",
-
   "speed": {
     "symbol": 9,
     "hammer": 39,
     "pig": 79,
     "spin": 108
-  }
+  },
+  "fps_name": "NHTSPEED",
+  "telegram_name_vi": "Telegram",
+  "telegram_name_en": "Telegram",
+  "admin_name_vi": "Admin",
+  "admin_name_en": "Admin",
+  "update_name": "Update",
+  "zalo_group_name": "Box",
+  "group_name": "Box",
+  "box_name": "Box"
 }
