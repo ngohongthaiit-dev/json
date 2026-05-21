@@ -1,7 +1,7 @@
 {
   "status": "show",
-  "menu_name": "Tên Menu",
-  "history_name": "BẢNG ĐẾM TỔNG",
+  "menu_name": "Test tên Menu",
+  "history_name": "Bảng Đếm Tổng",
   "auto_name": "Tự Động",
   "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
   "version": "3.5.2540",
@@ -24,5 +24,8 @@
     "pig": 79,
     "spin": 108
   },
-  "fps_name": "TEST.IO.VN"
+  "fps_name": "NHTSPEED TEST",
+  "telegram_name": "Telegram",
+  "zalo_group_name": "Nhóm",
+  "admin_name": "Admin"
 }
