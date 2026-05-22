@@ -5,20 +5,17 @@
   "auto_name": "Tự Động",
   "fps_name": "NHTSPEED",
 
-"logo_name": "I am NHT",
-"logo_url": "https://cdn.nhtspeed.io.vn/logo.png",
-"logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
-"logo_menu_url": "https://cdn.nhtspeed.io.vn/logo.png",
-"logo_mini_url": "https://cdn.nhtspeed.io.vn/logo.png"
+  "logo_name": "I am NHT",
+  "logo_url": "https://cdn.nhtspeed.io.vn/logo.png",
+  "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
+  "logo_menu_url": "https://cdn.nhtspeed.io.vn/logo.png",
+  "logo_mini_url": "https://cdn.nhtspeed.io.vn/logo.png",
 
   "version": "3.5.2540",
-
   "announcement": "Chào mừng bạn đến với Speed mới nhất của I am NHT. Chúc bạn chơi game vui vẻ!",
   "announcement_id": "thong_bao_001",
-
   "alert_title": "Thông Báo I am NHT",
   "update_msg": "Đã có phiên bản mới (v%@). Vui lòng cập nhật để trải nghiệm tốt nhất.",
-
   "btn_update_now": "Cập Nhật Ngay",
   "btn_update_later": "Để Sau",
   "btn_understood": "Đã Hiểu",
