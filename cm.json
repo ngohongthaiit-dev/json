@@ -5,11 +5,11 @@
   "auto_name": "Tự Động",
   "fps_name": "NHTSPEED",
 
-  "logo_name": "I am NHT",
-  "logo_url": "https://iamnhtv2.nhtspeed.io.vn/images_base64/logo.png",
-  "logo_ngohongthai": "https://iamnhtv2.nhtspeed.io.vn/images_base64/logo.png",
-  "logo_menu_url": "https://iamnhtv2.nhtspeed.io.vn/images_base64/logo.png",
-  "logo_mini_url": "https://iamnhtv2.nhtspeed.io.vn/images_base64/logo.png",
+"logo_name": "I am NHT",
+"logo_url": "https://cdn.nhtspeed.io.vn/logo.png",
+"logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
+"logo_menu_url": "https://cdn.nhtspeed.io.vn/logo.png",
+"logo_mini_url": "https://cdn.nhtspeed.io.vn/logo.png"
 
   "version": "3.5.2540",
 
