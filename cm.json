@@ -1,8 +1,8 @@
 {
   "status": "show",
   "fps_name": "NHTSPEED",
-  "menu_name": "TEST TÊN MENU",
-  "history_name": "Bảng Đếm TEST",
+  "menu_name": "TÊN MENU",
+  "history_name": "TỔNG TEST",
   "auto_name": "Tự Động",
 
   "zalo_nht": "https://api.nhtspeed.io.vn/ngohongthai",
