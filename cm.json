@@ -1,43 +1,26 @@
 {
   "status": "show",
-  "menu_name": "Ngô Hồng Thái",
-  "history_name": "BẢNG ĐẾM TỔNG",
-  "auto_name": "Tự Động",
   "fps_name": "NHTSPEED",
+  "menu_name": "TEST TÊN MENU",
+  "history_name": "Bảng Đếm TEST",
+  "auto_name": "Tự Động",
 
-  "logo_name": "I am NHT",
-  "logo_url": "https://cdn.nhtspeed.io.vn/logo.png",
-  "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
-  "logo_menu_url": "https://cdn.nhtspeed.io.vn/logo.png",
-  "logo_mini_url": "https://cdn.nhtspeed.io.vn/logo.png",
+  "zalo_nht": "https://api.nhtspeed.io.vn/ngohongthai",
+  "zalo_url": "https://api.nhtspeed.io.vn/ngohongthai",
+  "telegram_url": "https://api.nhtspeed.io.vn/tele",
+  "zalo_group_url": "https://api.nhtspeed.io.vn/zalobox",
 
   "version": "3.5.2540",
+  "update_url": "https://nhtspeed.io.vn",
 
   "announcement": "Chào mừng bạn đến với Speed mới nhất của I am NHT. Chúc bạn chơi game vui vẻ!",
   "announcement_id": "thong_bao_001",
 
   "alert_title": "Thông Báo I am NHT",
   "update_msg": "Đã có phiên bản mới (v%@). Vui lòng cập nhật để trải nghiệm tốt nhất.",
-
   "btn_update_now": "Cập Nhật Ngay",
   "btn_update_later": "Để Sau",
   "btn_understood": "Đã Hiểu",
-
-  "update_url": "https://nhtspeed.io.vn",
-  "download_update_url": "https://nhtspeed.io.vn",
-
-  "telegram_url": "https://api.nhtspeed.io.vn/tele",
-  "telegram_update_url": "https://api.nhtspeed.io.vn/tele",
-  "telegram_link": "https://api.nhtspeed.io.vn/tele",
-
-  "zalo_group_url": "https://zalo.me/g/ccltdg215",
-  "zalo_group": "https://zalo.me/g/ccltdg215",
-  "zalo_group_link": "https://zalo.me/g/ccltdg215",
-
-  "z_after_logo_url": "https://api.nhtspeed.io.vn/ngohongthai",
-  "logo_z_url": "https://api.nhtspeed.io.vn/ngohongthai",
-  "zalo_nht": "https://api.nhtspeed.io.vn/ngohongthai",
-  "zalo_url": "https://api.nhtspeed.io.vn/zalobox",
 
   "speed": {
     "symbol": 9,
