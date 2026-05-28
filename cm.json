@@ -1,22 +1,18 @@
 {
   "status": "show",
-  "fps_name": "NHTSPEED1",
-  "menu_name": "TÊN MENU1",
-  "history_name": "TỔNG TEST1",
+  "fps_name": "NHTSPEED.IO.VN",
+  "menu_name": "Ngô Hồng Thái",
+  "history_name": "Bảng Đếm Tổng",
   "auto_name": "Tự Động",
 
   "zalo_nht": "https://api.nhtspeed.io.vn/ngohongthai",
   "zalo_url": "https://api.nhtspeed.io.vn/ngohongthai",
   "telegram_url": "https://api.nhtspeed.io.vn/tele",
   "zalo_group_url": "https://api.nhtspeed.io.vn/zalobox",
-
-  
   "update_url": "https://nhtspeed.io.vn",
-
-  "announcement": "Chào mừng bạn đến với Speed mới nhất của I am NHT. Chúc bạn chơi game vui vẻ!",
+  "alert_title": "Thông Báo từ Ngô Hồng Thái",
   "announcement_id": "thong_bao_001",
-
-  "alert_title": "Thông Báo I am NHT",
+  "announcement": "Chào mừng bạn đến với Speed NHT, Chúc bạn chơi game vui vẻ!",
   "update_msg": "Đã có phiên bản mới (v%@). Vui lòng cập nhật để trải nghiệm tốt nhất.",
   "btn_update_now": "Cập Nhật Ngay",
   "btn_update_later": "Để Sau",
