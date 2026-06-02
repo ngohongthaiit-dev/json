@@ -1,8 +1,8 @@
 {
   "status": "show",
   "fps_name": "NHTSPEED.IO.VN",
-  "menu_name": "Ngô Hồng Thái",
-  "history_name": "Bảng Đếm Tổng",
+  "menu_name": "I AM NHT",
+  "history_name": "Bảng Đếm",
   "auto_name": "Tự Động",
 
   "zalo_nht": "https://api.nhtspeed.io.vn/ngohongthai",
