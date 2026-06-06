@@ -10,8 +10,11 @@
   "btn_update_later": "Để sau, đang chiến 😎",
   "btn_understood": "Hiểu rồi Thái ơi 💖",
 
-  "announcement": "Chào mừng anh em đến với I AM NHT.",
+  "announcement": "Chào mừng anh em đến với I AM NHT. Bản này tối ưu lại giao diện, FPS, tốc độ và thông báo cập nhật.",
   "announcement_id": "nht_3_5_2560_funny",
+
+  "maintenance_title": "Đang bảo trì nhẹ xíu",
+  "maintenance_msg": "Server đang uống cà phê, đợi chút rồi quay lại nha 😆",
 
   "history_button": "Lịch sử",
   "count_button": "Đếm",
