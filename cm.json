@@ -22,6 +22,25 @@
   "total_button": "Đếm tổng",
   "auto_button": "Tự động",
 
+  "speed1_button": "Tốc độ 1",
+  "speed2_button": "Tốc độ 2",
+  "logo_count_button": "Logo đếm",
+  "admin_button": "Admin",
+
+  "history_button_en": "History",
+  "speed1_button_en": "Speed 1",
+  "speed2_button_en": "Speed 2",
+  "logo_count_button_en": "Logo Count",
+  "auto_button_en": "Auto",
+  "color_name_en": "Color",
+  "admin_button_en": "Admin",
+
+  "auto_title": "Tự động mục tiêu",
+  "auto_input_button": "Nhập giá trị",
+  "auto_off": "TẮT",
+  "auto_on": "BẬT",
+  "auto_close": "X",
+
   "btn_hide_fps": "Ẩn FPS",
   "btn_show_fps": "Hiện FPS",
   "btn_set_value": "Nhập giá trị",
@@ -32,7 +51,8 @@
   "btn_update": "Cập Nhật",
   "btn_box": "Box Zalo",
 
-  "color_0": "Đen",
+  "color_name": "Màu Sắc",
+  "color_0": "Hồng neon",
   "color_1": "Đỏ",
   "color_2": "Cam",
   "color_3": "Vàng",
