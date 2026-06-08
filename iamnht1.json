@@ -1,0 +1,15 @@
+{
+  "status": "show",
+  "menu_name": "Ngô Hồng Thái",
+  "history_name": "HISTORY",
+  "auto_name": "AUTO",
+  "version": "3.5.2510",
+  "update_url": "https://nhtspeed.io.vn",
+  "announcement_id": "iamnht1_v1_001",
+  "announcement": "Chào mừng bạn đến với IamNHT1 PHIÊN BẢN V1. \nChúc bạn có trải nghiệm vui vẻ.",
+  "alert_title": "Thông Báo Từ IamNHT1 V1",
+  "update_msg": "Đã có phiên bản mới (v%@). Vui lòng cập nhật để trải nghiệm tốt nhất.",
+  "btn_update_now": "Cập nhật ngay",
+  "btn_update_later": "Để sau",
+  "btn_understood": "Đã hiểu"
+}
