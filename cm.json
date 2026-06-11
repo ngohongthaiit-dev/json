@@ -3,25 +3,42 @@
   "require_signature": false,
   "content_language": "vi",
 
+  "json_server": "https://json.iamnht2.nhtspeed.io.vn",
+  "json_fallback": "https://raw.githubusercontent.com/ngohongthaiit-dev/json/refs/heads/main/cm.json",
+  "github_cm_json": "https://raw.githubusercontent.com/ngohongthaiit-dev/json/refs/heads/main/cm.json",
+  "server_role": "github_full_keys",
+  "config_role": "github_full_keys",
+
   "version": "3.5.2570",
   "server_version": "3.5.2570",
   "app_version": "3.5.2570",
   "minimum_version": "3.5.2570",
+  "announcement_id": "iamnht_v2_3_5_2570",
   "force_update": false,
 
-  "menu_name": "Ngô Hồng Thái",
-  "speedmenu_title": "Ngô Hồng Thái",
-  "menu_title": "Ngô Hồng Thái",
-  "title": "Ngô Hồng Thái",
+  "menu_name": "Speed by Ngô Hồng Thái",
+  "speedmenu_title": "Speed by Ngô Hồng Thái",
+  "menu_title": "Speed by Ngô Hồng Thái",
+  "title": "Speed by Ngô Hồng Thái",
 
   "fps_name": "NHTSPEED.IO.VN",
   "history_name": "I AM NHT",
   "auto_name": "Tự Động",
 
+  "history_button": "LỊCH SỬ",
+  "speed1_button": "TỐC ĐỘ 1",
+  "speed2_button": "TỐC ĐỘ 2",
+  "count_button": "Đếm vòng",
+  "round_count_button": "ĐẾM VÒNG",
+  "btn_color": "CHỈNH MÀU",
+  "color_button": "CHỈNH MÀU",
+  "auto_button": "TỰ ĐỘNG",
+  "menu_button": "MENU",
+  "admin_button": "ADMIN",
+
   "show_notice": true,
   "show_announcement": true,
   "show_update_alert": true,
-  "announcement_id": "iamnht_v2_3_5_2570",
 
   "notice_title": "Ngô Hồng Thái",
   "alert_title": "Ngô Hồng Thái",
@@ -33,6 +50,13 @@
 
   "btn_understood": "Đã hiểu",
   "btn_ok": "Đã hiểu",
+  "btn_cancel": "Đóng",
+  "btn_retry": "Thử lại",
+
+  "network_lost_title": "Mất kết nối",
+  "network_lost_message": "Vui lòng kiểm tra kết nối internet và thử lại.",
+  "network_disconnect_button": "Mất mạng",
+  "network_connect_button": "Có mạng",
 
   "update_url": "https://nhtspeed.io.vn",
   "download_url": "https://nhtspeed.io.vn",
@@ -47,12 +71,7 @@
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "cert_url": "https://ccnht.io.vn/#plans",
 
-  "speed_presets": [
-    8,
-    58,
-    128,
-    288
-  ],
+  "speed_presets": [9, 58, 128, 288],
   "speed_min": 1,
   "speed_max": 999
 }
