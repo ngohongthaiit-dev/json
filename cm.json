@@ -11,6 +11,8 @@
 
   "version": "3.5.2570",
   "server_version": "3.5.2570",
+  "server_check_version": "3.5.2570",
+  "speed_version": "3.5.2570",
   "app_version": "3.5.2570",
   "minimum_version": "3.5.2570",
   "announcement_id": "iamnht_v2_3_5_2570",
@@ -32,6 +34,7 @@
   "round_count_button": "ĐẾM VÒNG",
   "btn_color": "CHỈNH MÀU",
   "color_button": "CHỈNH MÀU",
+  "dock_color_button": "CHỈNH MÀU",
   "auto_button": "TỰ ĐỘNG",
   "menu_button": "MENU",
   "admin_button": "ADMIN",
@@ -40,13 +43,21 @@
   "show_announcement": true,
   "show_update_alert": true,
 
-  "notice_title": "Ngô Hồng Thái",
-  "alert_title": "Ngô Hồng Thái",
-  "announcement_title": "Ngô Hồng Thái",
+  "notice_title": "Speed by Ngô Hồng Thái",
+  "alert_title": "Speed by Ngô Hồng Thái",
+  "announcement_title": "Speed by Ngô Hồng Thái",
 
   "notice_message": "Chào mừng bạn đến Speed I am NHT.\nChúc bạn có trải nghiệm vui vẻ.",
   "announcement": "Chào mừng bạn đến Speed I am NHT.\nChúc bạn có trải nghiệm vui vẻ.",
   "alert_message": "Chào mừng bạn đến Speed I am NHT.\nChúc bạn có trải nghiệm vui vẻ.",
+
+  "speed_v2_brand_line": "Speed V2 by Ngô Hồng Thái",
+  "notice_brand_line": "Speed V2 by Ngô Hồng Thái",
+  "speed_alert_brand": "Zalo 0349 3333 97 Ngô Hồng Thái",
+  "current_version_label": "Phiên bản hiện tại",
+  "current_version_format": "%@ %@",
+  "notice_version_label": "Phiên bản hiện tại",
+  "notice_version_format": "%@ %@",
 
   "btn_understood": "Đã hiểu",
   "btn_ok": "Đã hiểu",
@@ -54,7 +65,7 @@
   "btn_retry": "Thử lại",
 
   "network_lost_title": "Mất kết nối",
-  "network_lost_message": "Vui lòng kiểm tra kết nối internet và thử lại.",
+  "network_lost_message": "Vui lòng kiểm tra kết nối mạng\nHoặc ấn nút đóng bên dưới.",
   "network_disconnect_button": "Mất mạng",
   "network_connect_button": "Có mạng",
 
@@ -72,6 +83,8 @@
   "cert_url": "https://ccnht.io.vn/#plans",
 
   "speed_presets": [9, 58, 128, 288],
-  "speed_min": 1,
-  "speed_max": 999
-}
+  "speedmenu": [9, 58, 128, 288],
+  "speed": {
+    "symbol": 9,
+    "hammer": 58,
+    "
