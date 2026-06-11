@@ -4,25 +4,16 @@
   "content_language": "vi",
 
   "json_server": "https://json.iamnht2.nhtspeed.io.vn",
-  "json_fallback": "https://raw.githubusercontent.com/ngohongthaiit-dev/json/refs/heads/main/cm.json",
+  "json_server_fallback": "https://json.iamnht2.nhtspeed.io.vn/cm.json",
   "github_cm_json": "https://raw.githubusercontent.com/ngohongthaiit-dev/json/refs/heads/main/cm.json",
-  "server_role": "github_full_keys",
+  "server_role": "cloudflare_bootstrap",
   "config_role": "github_full_keys",
 
   "version": "3.5.2570",
-  "server_version": "3.5.2570",
-  "server_check_version": "3.5.2570",
-  "speed_version": "3.5.2570",
-  "app_version": "3.5.2570",
-  "minimum_version": "3.5.2570",
   "announcement_id": "iamnht_v2_3_5_2570",
   "force_update": false,
 
   "menu_name": "Speed by Ngô Hồng Thái",
-  "speedmenu_title": "Speed by Ngô Hồng Thái",
-  "menu_title": "Speed by Ngô Hồng Thái",
-  "title": "Speed by Ngô Hồng Thái",
-
   "fps_name": "NHTSPEED.IO.VN",
   "history_name": "I AM NHT",
   "auto_name": "Tự Động",
@@ -30,37 +21,26 @@
   "history_button": "LỊCH SỬ",
   "speed1_button": "TỐC ĐỘ 1",
   "speed2_button": "TỐC ĐỘ 2",
-  "count_button": "Đếm vòng",
   "round_count_button": "ĐẾM VÒNG",
-  "btn_color": "CHỈNH MÀU",
   "color_button": "CHỈNH MÀU",
-  "dock_color_button": "CHỈNH MÀU",
   "auto_button": "TỰ ĐỘNG",
   "menu_button": "MENU",
   "admin_button": "ADMIN",
 
-  "show_notice": true,
-  "show_announcement": true,
   "show_update_alert": true,
-
   "notice_title": "Speed by Ngô Hồng Thái",
-  "alert_title": "Speed by Ngô Hồng Thái",
-  "announcement_title": "Speed by Ngô Hồng Thái",
-
   "notice_message": "Chào mừng bạn đến Speed I am NHT.\nChúc bạn có trải nghiệm vui vẻ.",
-  "announcement": "Chào mừng bạn đến Speed I am NHT.\nChúc bạn có trải nghiệm vui vẻ.",
-  "alert_message": "Chào mừng bạn đến Speed I am NHT.\nChúc bạn có trải nghiệm vui vẻ.",
-
   "speed_v2_brand_line": "Speed V2 by Ngô Hồng Thái",
-  "notice_brand_line": "Speed V2 by Ngô Hồng Thái",
-  "speed_alert_brand": "Zalo 0349 3333 97 Ngô Hồng Thái",
   "current_version_label": "Phiên bản hiện tại",
   "current_version_format": "%@ %@",
-  "notice_version_label": "Phiên bản hiện tại",
-  "notice_version_format": "%@ %@",
+
+  "show_post_notice": true,
+  "post_notice_title": "Update by Ngô Hồng Thái",
+  "post_notice_right_title": "Mua chứng chỉ cài Speed",
+  "post_notice_right_subtitle": " Liên hệ Zalo 0349 3333 97",
+  "post_notice_duration": 5,
 
   "btn_understood": "Đã hiểu",
-  "btn_ok": "Đã hiểu",
   "btn_cancel": "Đóng",
   "btn_retry": "Thử lại",
 
@@ -70,21 +50,13 @@
   "network_connect_button": "Có mạng",
 
   "update_url": "https://nhtspeed.io.vn",
-  "download_url": "https://nhtspeed.io.vn",
-  "website_url": "https://nhtspeed.io.vn",
-
   "telegram_url": "https://t.me/nhtupdate",
-  "telegram_update_url": "https://t.me/nhtupdate",
   "zalo_url": "https://zalo.me/ngohongthai97",
-  "zalo_admin_url": "https://zalo.me/ngohongthai97",
   "facebook_admin_url": "https://www.facebook.com/ngohongthai2k7",
   "community_box_url": "https://zalo.me/g/ccltdg215",
-  "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "cert_url": "https://ccnht.io.vn/#plans",
 
   "speed_presets": [9, 58, 128, 288],
-  "speedmenu": [9, 58, 128, 288],
-  "speed": {
-    "symbol": 9,
-    "hammer": 58,
-    "
+  "speed_min": 1,
+  "speed_max": 999
+}
