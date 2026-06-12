@@ -18,13 +18,13 @@
   "history_name": "I AM NHT",
   "auto_name": "Tự Động",
 
-  "history_button": "LỊCH SỬ",
-  "speed1_button": "TỐC ĐỘ 1",
-  "speed2_button": "TỐC ĐỘ 2",
-  "round_count_button": "ĐẾM VÒNG",
-  "color_button": "CHỈNH MÀU",
-  "auto_button": "TỰ ĐỘNG",
-  "menu_button": "MENU",
+  "history_button": "History",
+  "speed1_button": "Speed 1",
+  "speed2_button": "Speed 2",
+  "round_count_button": "Count",
+  "color_button": "Edit color",
+  "auto_button": "Auto",
+  "menu_button": "Menu",
   "admin_button": "ADMIN",
 
   "show_update_alert": true,
@@ -39,15 +39,6 @@
   "post_notice_right_title": "Mua chứng chỉ cài Speed",
   "post_notice_right_subtitle": " Liên hệ Zalo 0349 3333 97",
   "post_notice_duration": 5,
-
-  "btn_understood": "Đã hiểu",
-  "btn_cancel": "Đóng",
-  "btn_retry": "Thử lại",
-
-  "network_lost_title": "Mất kết nối",
-  "network_lost_message": "Vui lòng kiểm tra kết nối mạng\nHoặc ấn nút đóng bên dưới.",
-  "network_disconnect_button": "Mất mạng",
-  "network_connect_button": "Có mạng",
 
   "update_url": "https://nhtspeed.io.vn",
   "telegram_url": "https://t.me/nhtupdate",
