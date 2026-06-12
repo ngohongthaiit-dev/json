@@ -18,13 +18,13 @@
   "history_name": "I AM NHT",
   "auto_name": "Tự Động",
 
-  "history_button": "History",
+  "history_button": "Lịch sử",
   "speed1_button": "Speed 1",
   "speed2_button": "Speed 2",
-  "round_count_button": "Count",
-  "color_button": "Edit color",
-  "auto_button": "Auto",
-  "menu_button": "Menu",
+  "round_count_button": "Đếm Vòng",
+  "color_button": "Chỉnh Màu",
+  "auto_button": "Tự Động",
+  "menu_button": "MENU",
   "admin_button": "ADMIN",
 
   "show_update_alert": true,
