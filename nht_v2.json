@@ -1,0 +1,24 @@
+{
+  "content_language": "vi",
+
+  "menu_name": "Speed by Ngô Hồng Thái",
+  "speedmenu_title": "Speed by Ngô Hồng Thái",
+  "fps_name": "NHTSPEED.IO.VN",
+
+  "update_url": "https://nhtspeed.io.vn",
+  "telegram_url": "https://t.me/nhtupdate",
+  "zalo_url": "https://zalo.me/ngohongthai97",
+  "zalo_group_url": "https://zalo.me/g/ccltdg215",
+  "facebook_url": "https://www.facebook.com/ngohongthai2k7",
+  "cert_url": "https://ccnht.io.vn/#plans",
+
+  "feedback_email": "admin@nhtspeed.io.vn",
+  "dvfb_email": "ngohongthai@nhtspeed.io.vn",
+
+  "speed_presets": [9, 58, 128, 288],
+
+  "network_real_title": "Mất kết nối",
+  "network_real_message": "Vui lòng kiểm tra kết nối mạng\nHoặc ấn nút Đóng bên dưới.",
+  "network_real_close_button": "Đóng",
+  "network_real_retry_button": "Thử lại"
+}
