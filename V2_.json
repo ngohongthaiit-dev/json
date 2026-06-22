@@ -1,52 +1,70 @@
 {
-  "status": "true",
-  "version": "V2",
+  "status": "on",
+  "version": "2.0.0",
+
   "title": "Speed by I am NHT",
   "menu_name": "Speed by I am NHT",
   "main_menu_title": "Speed by I am NHT",
-  "history_name": "HISTORY",
+  "history_name": "LỊCH SỬ",
   "fps_name": "NHTSPEED.IO.VN",
-  "announcement": "I am NHT V2 ready",
-  "announcement_id": "v2_local_1",
+
+  "announcement_id": "v2_notice_001",
+  "announcement": "Chào mừng bạn sử dụng Speed V2.\nChúc bạn có trải nghiệm vui vẻ.",
+
   "update_url": "https://nhtspeed.io.vn",
   "update_link": "https://nhtspeed.io.vn",
+
   "telegram_url": "https://t.me/nhtupdate",
-  "telegram": "https://t.me/nhtupdate",
-  "telegram_update": "https://t.me/nhtupdate",
+  "telegram": "Telegram",
+  "telegram_update": "Kênh Telegram",
+
+  "zalo_url": "https://zalo.me/ngohongthai97",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
-  "zalo_group": "https://zalo.me/g/ccltdg215",
-  "zalo_admin": "https://zalo.me/ngohongthai97",
-  "facebook_admin": "https://www.facebook.com/ngohongthai2k7",
-  "support_email": "support@nhtspeed.io.vn",
-  "btn_update_now": "Cập nhật",
+  "zalo_group": "Nhóm Zalo",
+  "zalo_admin": "Zalo Admin",
+
+  "facebook_url": "https://www.facebook.com/ngohongthai2k7",
+  "facebook_admin": "Facebook Admin",
+
+  "support_email": "ngohongthaiit@gmail.com",
+
+  "btn_update_now": "Cập Nhật",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
-  "maintenance_title_default": "Thông báo",
-  "notice_title_default": "Thông báo",
+
+  "maintenance_title_default": "Đang bảo trì",
+  "notice_title_default": "Speed by I am NHT",
   "post_notice_title_default": "Speed by I am NHT",
-  "post_notice_subtitle_default": "NHTSPEED.IO.VN",
+  "post_notice_subtitle_default": "Speed phiên bản V2",
+
   "speed_v2_version_format": "Speed V2 Phiên bản %@",
   "speed_v2_line": "Speed phiên bản V2",
+
   "menu_settings_title": "CÀI ĐẶT MENU",
-  "panel_title": "MENU",
-  "history_title_format": "HISTORY",
-  "auto_title": "MỤC TIÊU",
+  "panel_title": "Speed by I am NHT",
+  "history_title_format": "LỊCH SỬ",
+
+  "auto_title": "Tự động mục tiêu",
   "auto_done_title": "Auto Target hoàn tất",
-  "auto_fail_title": "Target not reached",
-  "auto_input_target": "Nhập số vòng mục tiêu",
-  "target_setting_title": "Chọn target tự động mục tiêu",
-  "target_setting_message": "Chọn Auto target: Sym, Búa, Heo hoặc Spin.",
+  "auto_fail_title": "Chưa đủ mục tiêu",
+  "auto_input_target": "Nhập số",
+
+  "target_setting_title": "Chọn mục tiêu",
+  "target_setting_message": "Chọn target Auto: Sym, Búa, Heo hoặc Spin. Khi đổi target, tiến độ sẽ bắt đầu lại từ số hiện tại.",
+
   "speed_input_title": "Nhập tốc độ Speed",
-  "speed_input_message": "Nhập số speed từ 1 đến 999 rồi bấm Lưu.",
-  "speed_input_placeholder": "9 / 58 / 128 / 288",
+  "speed_input_message": "Nhập số speed từ 1 đến 999 rồi bấm Lưu. Có thể nhập 9 / 58 / 128 / 288 hoặc số riêng.",
+  "speed_input_placeholder": "Ví dụ: 999",
+
   "hide_fps": "Ẩn FPS",
   "show_fps": "Hiện FPS",
+
   "reload": "RELOAD",
   "admin": "ADMIN",
   "wifi": "WiFi",
-  "skip": "ĐẾM",
+  "skip": "Skip",
   "speed1": "SPEED 1",
   "speed2": "SPEED 2",
   "auto": "MỤC TIÊU",
-  "build_home": "XÂY NHÀ"
+  "build_home": "🏠XÂY NHÀ"
 }
