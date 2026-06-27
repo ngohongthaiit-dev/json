@@ -7,22 +7,29 @@
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ",
   "fps_name": "NHTSPEED.IO.VN",
-  "intro_brand": "Speed by Ngô Hồng Thái",
-  "intro_loading": "Đang tán gái chờ xíu...",
+
+  "menu_main_width": "239",
+  "menu_main_width_max": "268",
+
   "announcement_id": "v2_notice_2590",
-  "announcement": "Chúc bạn có trải nghiệm vui vẻ.",
+  "announcement": "Chào mừng bạn đến Speed by Ngô Hồng Thái.\nChúc bạn có trải nghiệm vui vẻ.",
+
   "update_url": "https://nhtspeed.io.vn",
   "update_link": "CẬP NHẬT",
+
   "telegram_url": "https://t.me/nhtupdate",
   "telegram_update": "TELEGRAM",
+
   "zalo_url": "https://zalo.me/ngohongthai97",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "zalo_group": "BOX ZALO",
   "zalo_admin": "ZALO ADMIN",
+
   "facebook_url": "https://www.facebook.com/ngohongthai2k7",
   "facebook_admin": "FACEBOOK",
+
   "support_email": "nhtcoinmaster27@gmail.com",
-  "gesture_quick_header": "Hướng dẫn nhanh",
+
   "btn_update_now": "Cập nhật",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
@@ -48,6 +55,11 @@
 
   "hide_fps": "Ẩn FPS",
   "show_fps": "Hiện FPS",
+
+  "gesture_quick_header": "HƯỚNG DẪN",
+
+  "intro_brand": "Speed by Ngô Hồng Thái",
+  "intro_loading": "Đang tán zai chờ xíu...",
 
   "potion_enabled": "on",
   "potion_key_r1": "r1",
