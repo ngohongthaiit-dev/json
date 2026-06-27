@@ -39,6 +39,7 @@
   "post_notice_subtitle_default": "Speed by Ngô Hồng Thái",
 
   "menu_settings_title": "CÀI ĐẶT MENU",
+  "contact_section": "THÔNG TIN",
 
   "auto_title": "TỰ ĐỘNG MỤC TIÊU",
   "auto_done_title": "HOÀN THÀNH",
@@ -59,7 +60,7 @@
   "gesture_quick_header": "HƯỚNG DẪN",
 
   "intro_brand": "Speed by Ngô Hồng Thái",
-  "intro_loading": "Đang tán zai chờ xíu...",
+  "intro_loading": "Đang tải cùng Unity...",
 
   "potion_enabled": "on",
   "potion_key_r1": "r1",
