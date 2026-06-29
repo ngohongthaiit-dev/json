@@ -50,7 +50,7 @@
   "show_fps": "Hiện FPS",
   "gesture_quick_header": "Hướng dẫn nhanh",
   "gesture_quick_title": "Thao tác cử chỉ",
-  "gesture_quick_body": "2 ngón chạm 2 lần → Mở/tắt Menu chính\n3 ngón chạm 2 lần → Mở/tắt Lịch sử\n1 ngón giữ 2s → Mở/tắt FPS\n2 ngón giữ 2s → Mở/tắt Chỉnh màu\n3 ngón giữ 2s → Mở/tắt ADMIN",
+  "gesture_quick_body": "2 ngón chạm 2 lần → Mở/tắt Menu chính\n3 ngón chạm 2 lần → Mở/tắt Lịch sử\n1 ngón giữ 2s → Mở/tắt FPS\n2 ngón giữ 2s → Mở/tắt Chỉnh màu\n3 ngón giữ 2s → Mở/tắt Cài đặt menu",
   "admin": "ADMIN",
   "count": "Đếm",
   "wifi": "WiFi",
