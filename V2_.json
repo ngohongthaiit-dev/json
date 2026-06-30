@@ -39,11 +39,54 @@
   "update_url": "https://nhtspeed.io.vn",
   "telegram_url": "https://t.me/nhtupdate",
   "zalo_url": "https://zalo.me/ngohongthai97",
-  "facebook_admin_url": "https://www.facebook.com/ngohongthai2k7",
+  "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "community_box_url": "https://zalo.me/g/ccltdg215",
+  "facebook_url": "https://www.facebook.com/ngohongthai2k7",
+  "facebook_admin_url": "https://www.facebook.com/ngohongthai2k7",
   "cert_url": "https://ccnht.io.vn/#plans",
+  "support_email": "nhtcoinmaster27@gmail.com",
 
   "speed_presets": [9, 58, 128, 288],
   "speed_min": 1,
-  "speed_max": 999
+  "speed_max": 999,
+
+  "btn_update_now": "Cập Nhật",
+  "btn_update_later": "Để Sau",
+  "btn_understood": "Đã hiểu",
+
+  "menu_settings_title": "Cài Đặt Menu",
+  "contact_section": "Liên Hệ",
+  "info_panel_title": "Thông Tin",
+  "panel_title": "Cài Đặt",
+  "auto_title": "MỤC TIÊU TỰ ĐỘNG",
+  "auto_done_title": "Auto Target hoàn tất",
+  "auto_fail_title": "Auto Target thất bại",
+
+  "auto_input_target": "Nhập số mục tiêu",
+  "auto_input_button": "Lưu mục tiêu",
+  "target_setting_title": "Chọn mục tiêu",
+  "target_setting_message": "Chọn target Auto: Sym, Búa, Heo hoặc Spin. Khi đổi target, tiến độ sẽ bắt đầu lại từ số hiện tại.",
+
+  "speed_input_title": "Nhập tốc độ",
+  "speed_input_message": "Nhập tốc độ từ 1 đến 999.",
+  "speed_input_placeholder": "Ví dụ: 288",
+
+  "hide_fps": "Ẩn FPS",
+  "show_fps": "Hiện FPS",
+
+  "gesture_quick_header": "HƯỚNG DẪN SỬ DỤNG",
+  "gesture_quick_title": "HƯỚNG DẪN SỬ DỤNG",
+  "gesture_quick_body": "2 ngón chạm 2 lần → Mở/tắt Menu chính\n3 ngón chạm 2 lần → Mở/tắt Lịch sử\n1 ngón giữ 2s → Mở/tắt FPS\n2 ngón giữ 2s → Mở/tắt Chỉnh màu\n3 ngón giữ 2s → Mở/tắt Cài đặt menu\nẤn logo → đổi thành logo tròn đếm\nẤn giữ logo → thu nhỏ/phóng to\nẤn icon thu nhỏ → mở Menu gọn Compile",
+
+  "admin": "Admin",
+  "count": "Đếm",
+  "wifi": "Wifi",
+  "skip": "Bỏ Qua",
+  "auto": "Tự Động",
+  "build_home": "Xây Nhà",
+
+  "build_confirm_title": "Bật xây làng?",
+  "build_confirm_message": "Bạn có muốn bật tự động xây làng không?\nẤn Có để tự vào Build, xây full, nhận rương rồi tiếp tục xây. Ấn Không sẽ tắt Xây Nhà.",
+  "yes": "Có",
+  "no": "Không"
 }
