@@ -1,51 +1,15 @@
 {
-  "status": "on",
-  "server": "on",
-  "enabled": "1",
-
-  "require_signature": false,
-  "content_language": "vi",
+  "status": "show",
+  "menu_name": "Ngô Hồng Thái",
+  "history_name": "Lịch sử tổng",
+  "auto_name": "Mục tiêu",
   "version": "3.5.2601",
-  "force_update": false,
-
-  "json_server": "https://maychu.iamnht2.nhtspeed.io.vn",
-  "github_cm_json": "https://maychu.iamnht2.nhtspeed.io.vn/V2_.json",
-  "server_role": "cloudflare_bootstrap",
-  "config_role": "github_full_keys",
-
-  "menu_name": "Speed by Ngô Hồng Thái",
-  "auto_name": "MỤC TIÊU",
-  "intro_title": "Chào mừng bạn đến NHTSPEED",
-  "intro_loading": "Đang tán zai chờ xíu...",
-  "intro_version_format": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_version_fallback": "Phiên bản",
-  "history_name": "LỊCH SỬ",
-  "fps_name": "NHTSPEED.IO.VN",
-
-  "menu_main_width": "239",
-  "menu_main_width_max": "268",
-
-  "update_url": "https://nhtspeed.io.vn",
-  "telegram_url": "https://t.me/nhtupdate",
-  "zalo_url": "https://zalo.me/ngohongthai97",
-  "zalo_group_url": "https://zalo.me/g/ccltdg215",
-  "community_box_url": "https://zalo.me/g/ccltdg215",
-  "facebook_url": "https://www.facebook.com/ngohongthai2k7",
-  "facebook_admin_url": "https://www.facebook.com/ngohongthai2k7",
-  "cert_url": "https://nhtspeed.io.vn",
-  "support_email": "nhtcoinmaster27@gmail.com",
-
-  "speed_presets": [9, 58, 128, 288],
-  "speed_min": "1",
-  "speed_max": "999",
-
-  "btn_update_now": "Cập Nhật",
+  "update_url": "https://t.me/nhtupdate",
+  "announcement": "Chào mừng bạn đến NHT SPEED!",
+  "announcement_id": "thong_bao_001",
+  "alert_title": "Thông Báo Từ I AM NHT",
+  "update_msg": "Đã có phiên bản mới (v%@). Hãy cập nhật để có trải nghiệm tốt nhất.",
+  "btn_update_now": "Cập nhật ngay",
   "btn_update_later": "Để sau",
-  "btn_understood": "Đã hiểu",
-
-  "icon_logo_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Logo.png",
-  "icon_sym_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Sym10/Symchim.png",
-  "icon_hammer_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Bua.png",
-  "icon_pig_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Heo.png",
-  "icon_spin_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Spin.png"
+  "btn_understood": "Đã hiểu"
 }
