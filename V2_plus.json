@@ -3,15 +3,12 @@
   "menu_name": "Ngô Hồng Thái",
   "history_name": "Lịch sử tổng",
   "auto_name": "Mục tiêu",
-
   "version": "3.5.2601",
   "update_url": "https://t.me/nhtupdate",
-
   "announcement": "Chào mừng bạn đến NHT SPEED!",
   "announcement_id": "thong_bao_001",
   "alert_title": "Thông Báo Từ I AM NHT",
-  "update_msg": "Đã có phiên bản mới (v%@). Hãy cập nhật để có trải nghiệm tốt nhất.",
-
+  "update_msg": "Đã có phiên bản mới (v%@).\nHãy cập nhật để có trải nghiệm tốt nhất.",
   "btn_update_now": "Cập nhật ngay",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
@@ -25,8 +22,9 @@
   "icon_sym_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Sym10/Symchim.png",
   "icon_hammer_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Bua.png",
   "icon_pig_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Heo.png",
-  "icon_spin_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Spin.png"
+  "icon_spin_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Spin.png",
   "icon_potion_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Thuoc.png",
+
   "potion_enabled": "on",
   "potion_key_r1": "r1",
   "potion_key_r2": "r2",
@@ -45,6 +43,7 @@
   "potion_value_status": "granted",
   "potion_progress_key_mission": "MissionPoints",
   "potion_progress_key_nonaccumulated": "NonAccumulatedPoints",
+
   "token_enabled": "off",
   "token_exclude_markers": "sessiontoken,session_token,device_token,pushtoken,push_token,auth_token,access_token,refresh_token,firebase",
   "token_markers": "com.token.gap,token.gap,tokengap,token_gap,tokenbarscore,token_bar_score,token_currency,token currency,tokencurrency,tokenamount,token_amount,tokenamountonbalance,token_amount_on_balance,tokenbar,tokensamount,tokenreward,token_reward,eventtoken,event_token,adventuretoken,tokenadventure,tokenquest,token_quest,thor_token,lightningtoken,lightning_token,##token,##m_token,token_wheel,token-wheel,tokenwheel,tokenbalancesdata,tokenwheelbalancedata,tokenwheelstatedata,tokenwheelevent,tokenwheelspecialevent,m_istokenwheelactive,lasttokenwheeleventid",
