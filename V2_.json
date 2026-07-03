@@ -1,17 +1,14 @@
 {
   "status": "show",
-  "menu_name": "Ngô Hồng Thái",
+  "menu_name": "Speed Ngô Hồng Thái",
   "history_name": "Lịch sử tổng",
   "auto_name": "Mục tiêu",
-
   "version": "3.5.2601",
   "update_url": "https://t.me/nhtupdate",
-
   "announcement": "Chào mừng bạn đến NHT SPEED!",
   "announcement_id": "thong_bao_001",
   "alert_title": "Thông Báo Từ I AM NHT",
-  "update_msg": "Đã có phiên bản mới (v%@). Hãy cập nhật để có trải nghiệm tốt nhất.",
-
+  "update_msg": "Đã có phiên bản mới (v%@).\nHãy cập nhật để có trải nghiệm tốt nhất.",
   "btn_update_now": "Cập nhật ngay",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
@@ -24,6 +21,9 @@
   "icon_logo_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Logo.png",
   "icon_sym_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Sym10/Symchim.png",
   "icon_hammer_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Bua.png",
+  "icon_attack_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Bua.png",
   "icon_pig_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Heo.png",
-  "icon_spin_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Spin.png"
+  "icon_raid_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Heo.png",
+  "icon_spin_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Spin.png",
+
 }
