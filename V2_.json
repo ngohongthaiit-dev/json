@@ -1,6 +1,6 @@
 {
   "status": "show",
-  "menu_name": " Speed Ngô Hồng Thái ",
+  "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "Lịch sử tổng",
   "auto_name": "Mục tiêu",
   "version": "3.5.2601",
@@ -16,9 +16,4 @@
   "intro_loading": "Đang tán zai chờ xíu...",
   "intro_version_format": "Phiên bản %@ | NHTSPEED.IO.VN",
   "intro_version_fallback": "Phiên bản",
-  "icon_logo_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Logo.png",
-  "icon_sym_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Sym10/Symchim.png",
-  "icon_attack_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Bua.png",
-  "icon_raid_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Heo.png",
-  "icon_spin_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Spin.png"
 }
