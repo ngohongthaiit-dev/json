@@ -43,14 +43,4 @@
   "potion_value_status": "granted",
   "potion_progress_key_mission": "MissionPoints",
   "potion_progress_key_nonaccumulated": "NonAccumulatedPoints",
-
-  "token_enabled": "on",
-  "token_exclude_markers": "sessiontoken,session_token,device_token,pushtoken,push_token,auth_token,access_token,refresh_token,firebase",
-  "token_markers": "com.token.gap,token.gap,tokengap,token_gap,tokenbarscore,token_bar_score,token_currency,token currency,tokencurrency,tokenamount,token_amount,tokenamountonbalance,token_amount_on_balance,tokenbar,tokensamount,tokenreward,token_reward,eventtoken,event_token,adventuretoken,tokenadventure,tokenquest,token_quest,thor_token,lightningtoken,lightning_token,##token,##m_token,token_wheel,token-wheel,tokenwheel,tokenbalancesdata,tokenwheelbalancedata,tokenwheelstatedata,tokenwheelevent,tokenwheelspecialevent,m_istokenwheelactive,lasttokenwheeleventid",
-  "token_progress_current_keys": "missionpoints,currentamount,current_amount,tokenbarscore,token_bar_score,tokenamountonbalance,token_amount_on_balance,tokenbalance,token_balance,accumulationitemvalue",
-  "token_progress_delta_keys": "nonaccumulatedpoints,amounttoadd,addedpoints,pointsadded",
-  "token_progress_max_keys": "maxamount,max_amount,targetamount,target_amount,totalamount,total_amount,requiredamount,required_amount,amountneeded,amount_needed",
-  "token_bar_container_keys": "commonResponses,CommonResponses,commonResponse,ProgressBarsByID,progressBarsByID,ActiveProgressBarsID,activeProgressBarsID,accumulationBarsById,AccumulationBarsById,BalanceData,balanceData,TokenWheelBalanceData,tokenWheelBalanceData",
-  "token_loose_current_keys": "amount,score,value,current,progress,balance",
-  "token_loose_max_keys": "max,goal,target,total,needed"
 }
