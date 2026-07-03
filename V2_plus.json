@@ -18,9 +18,6 @@
   "intro_version_format": "Phiên bản %@ | NHTSPEED.IO.VN",
   "intro_version_fallback": "Phiên bản",
 
-  "menu_main_width": "239",
-  "menu_main_width_max": "268",
-
   "icon_logo_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Logo.png",
   "icon_sym_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Sym10/Symchim.png",
   "icon_hammer_url": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/Pinky/Bua.png",
