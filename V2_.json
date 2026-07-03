@@ -1,6 +1,6 @@
 {
   "status": "show",
-  "menu_name": "Speed by Ngô Hồng Thái",
+  "menu_name": "Speed Hồng Thái",
   "history_name": "Lịch sử tổng",
   "auto_name": "Mục tiêu",
   "version": "3.5.2601",
@@ -15,5 +15,5 @@
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_loading": "Đang tán zai chờ xíu...",
   "intro_version_format": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_version_fallback": "Phiên bản",
+  "intro_version_fallback": "Phiên bản"
 }
