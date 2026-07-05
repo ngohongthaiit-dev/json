@@ -4,13 +4,12 @@
   "history_name": "Lịch sử tổng",
   "auto_name": "Mục tiêu",
   "version": "3.5.2601",
-  "update_url": "https://t.me/nhtupdate",
+  "update_url": "https://nhtspeed.io.vn/",
   "alert_title": "Thông Báo Từ I AM NHT",
   "update_msg": "Đã có phiên bản mới (v%@).\nHãy cập nhật để có trải nghiệm tốt nhất.",
   "btn_update_now": "Cập nhật ngay",
   "btn_update_later": "Để sau",
-  "btn_understood": "Đã hiểu",
   "intro_title": "Chào mừng bạn đến NHTSPEED",
-    "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_loading": "Đang tán zai chờ xíu...",
+  "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
+  "intro_loading": "Đang tán zai chờ xíu..."
 }
