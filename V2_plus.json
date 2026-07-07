@@ -4,7 +4,7 @@
   "history_name": "LỊCH SỬ TỔNG",
   "fps_name": "NHTSPEED.IO.VN",
   "auto_name": "Mục tiêu",
-  "version": "3.5.2601",
+  "version": "3.5.2610",
   "update_url": "https://nhtspeed.io.vn/",
   "alert_title": "Thông Báo Từ I AM NHT",
   "update_msg": "Đã có phiên bản mới (v%@).\nHãy cập nhật để có trải nghiệm tốt nhất.",
@@ -14,6 +14,13 @@
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
   "intro_loading": "Đang tán zai chờ xíu...",
+
+  "icon_logo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/logo.png",
+  "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
+  "icon_bua": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/b%C3%BAa.png",
+  "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
+  "icon_spin": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/spin.png",
+  "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
 
   "potion_enabled": "on",
   "potion_key_r1": "r1",
