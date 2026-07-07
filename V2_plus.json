@@ -13,7 +13,8 @@
   "btn_understood": "Đã hiểu",
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_loading": "Đang tán zai chờ xíu..."
+  "intro_loading": "Đang tán zai chờ xíu...",
+
   "potion_enabled": "on",
   "potion_key_r1": "r1",
   "potion_key_r2": "r2",
