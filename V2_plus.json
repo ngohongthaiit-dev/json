@@ -1,6 +1,9 @@
 {
   "status": "show",
   "menu_name": "Speed by Ngô Hồng Thái",
+  "intro_title": "Chào mừng bạn đến NHTSPEED",
+  "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
+  "intro_loading": "Đang bắt sym chờ xíu...",
   "history_name": "LỊCH SỬ TỔNG",
   "fps_name": "NHTSPEED.IO.VN",
   "auto_name": "Mục tiêu",
@@ -11,9 +14,6 @@
   "btn_update_now": "Cập nhật ngay",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
-  "intro_title": "Chào mừng bạn đến NHTSPEED",
-  "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_loading": "Đang tán zai chờ xíu...",
 
   "icon_logo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/logo.png",
   "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
