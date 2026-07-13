@@ -10,7 +10,7 @@
 
   "version": "3.5.2620",
   "latest_version": "3.5.2620",
-  "minimum_version": "3.5.2590",
+  "minimum_version": "3.5.2610",
   "force_update": "off",
   "update_url": "https://nhtspeed.io.vn/",
   "alert_title": "Thông Báo Từ I AM NHT",
