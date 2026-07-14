@@ -36,14 +36,6 @@
   "target_spin_enabled": "on",
   "target_thuoc_enabled": "on",
 
-  "speed_min": 1,
-  "speed_max": 288,
-  "speed_default": 9,
-  "speed_preset_1": 9,
-  "speed_preset_2": 58,
-  "speed_preset_3": 188,
-  "speed_preset_4": 288,
-
   "telegram_url": "https://t.me/nhtupdate",
   "website_url": "https://nhtspeed.io.vn/",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
