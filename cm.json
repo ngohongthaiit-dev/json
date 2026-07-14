@@ -9,7 +9,7 @@
   "server_role": "cloudflare_bootstrap",
   "config_role": "github_full_keys",
 
-  "version": "3.5.2570",
+  "version": "3.5.2620",
   "announcement_id": "iamnht_v2_3_5_2570",
   "force_update": false,
 
