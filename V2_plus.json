@@ -7,7 +7,6 @@
   "history_name": "LỊCH SỬ TỔNG",
   "fps_name": "NHTSPEED.IO.VN",
   "auto_name": "Mục tiêu",
-
   "version": "3.5.2620",
   "latest_version": "3.5.2620",
   "minimum_version": "3.5.2610",
@@ -18,7 +17,6 @@
   "btn_update_now": "Cập nhật ngay",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
-
   "auto_heo_enabled": "on",
   "auto_bua_enabled": "on",
   "auto_build_enabled": "on",
@@ -29,26 +27,22 @@
   "history_enabled": "on",
   "fps_enabled": "on",
   "theme_enabled": "on",
-
   "target_sym_enabled": "on",
   "target_bua_enabled": "on",
   "target_heo_enabled": "on",
   "target_spin_enabled": "on",
   "target_thuoc_enabled": "on",
-
   "telegram_url": "https://t.me/nhtupdate",
   "website_url": "https://nhtspeed.io.vn/",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "zalo_admin_url": "https://zalo.me/ngohongthai97",
   "certificate_url": "https://zalo.me/ngohongthai97",
-
   "icon_logo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/logo.png",
   "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
   "icon_bua": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/b%C3%BAa.png",
   "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
   "icon_spin": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/spin.png",
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
-
   "potion_enabled": "on",
   "potion_key_r1": "r1",
   "potion_key_r2": "r2",
