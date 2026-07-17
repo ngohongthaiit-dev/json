@@ -36,9 +36,10 @@
 
   "telegram_url": "https://t.me/nhtupdate",
   "website_url": "https://nhtspeed.io.vn/",
+  "certificate_url": "https://zalo.me/ngohongthai97",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "zalo_admin_url": "https://zalo.me/ngohongthai97",
-  "certificate_url": "https://zalo.me/ngohongthai97",
+  "tele_admin_url": "https://t.me/nht1402",
 
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version": "Phiên bản %@",
