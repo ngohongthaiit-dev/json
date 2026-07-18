@@ -90,6 +90,7 @@
   "token_delta_key_points_added": "pointsAdded",
   "token_key_server_seq": "seq",
   "token_marker_wheel": "token_wheel",
+  "token_marker_bars": "token-wheel-bars",
   "token_marker_gap": "com.token.gap",
   "token_marker_currency": "token_currency",
   "token_marker_internal": "##token",
