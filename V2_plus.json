@@ -1,19 +1,23 @@
 {
   "status": "show",
+
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "MỤC TIÊU",
   "fps_name": "NHTSPEED.IO.VN",
+
   "latest_version": "3.5.2620",
   "version": "3.5.2620",
   "minimum_version": "3.5.2620",
   "force_update": false,
+
   "update_url": "https://nhtspeed.io.vn/",
-  "alert_title": "Thông báo",
-  "update_msg": "Đã có phiên bản mới (v%@).\nHãy cập nhật để có trải nghiệm tốt nhất.",
-  "btn_update_now": "Cập nhật ngay",
-  "btn_update_later": "Để sau",
-  "btn_understood": "Đã hiểu",
+  "alert_title": "CẬP NHẬT PHIÊN BẢN",
+  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng các bản sửa lỗi và tính năng mới.",
+  "btn_update_now": "CẬP NHẬT",
+  "btn_update_later": "ĐỂ SAU",
+  "btn_understood": "ĐÃ HIỂU",
+
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
   "auto_build_enabled": true,
@@ -24,30 +28,37 @@
   "history_enabled": true,
   "fps_enabled": true,
   "theme_enabled": true,
+
   "target_sym_enabled": true,
   "target_bua_enabled": true,
   "target_heo_enabled": true,
   "target_spin_enabled": true,
   "target_thuoc_enabled": true,
+
   "telegram_url": "https://t.me/nhtupdate",
   "website_url": "https://nhtspeed.io.vn/",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "zalo_admin_url": "https://zalo.me/ngohongthai97",
   "tele_admin_url": "https://t.me/nht1402",
   "certificate_url": "https://zalo.me/ngohongthai97",
+
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_loading": "Đang bắt sym chờ xíu...",
-  "icon_logo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/logo.png",
-  "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
-  "icon_bua": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/bua.png",
-  "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
-  "icon_spin": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/spin.png",
-  "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
+  "intro_loading": "Đang khởi tạo dữ liệu...",
+
+  "icon_logo": "https://cdn.nhtspeed.io.vn/logo.png",
+  "icon_sym": "https://cdn.nhtspeed.io.vn/sym.png",
+  "icon_bua": "https://cdn.nhtspeed.io.vn/bua.png",
+  "icon_heo": "https://cdn.nhtspeed.io.vn/heo.png",
+  "icon_spin": "https://cdn.nhtspeed.io.vn/spin.png",
+  "icon_thuoc": "https://cdn.nhtspeed.io.vn/thuoc.png",
+
   "potion_enabled": true,
+
   "potion_key_r1": "r1",
   "potion_key_r2": "r2",
   "potion_key_r3": "r3",
+
   "potion_key_accumulation_bars": "accumulationBarsById",
   "potion_key_currency_full": "generic_currency_expedition_nl_currency",
   "potion_key_currency": "generic_currency",
@@ -57,9 +68,11 @@
   "potion_key_type": "type",
   "potion_key_subtype": "subType",
   "potion_key_status": "status",
+
   "potion_value_type": "generic_currency",
   "potion_value_subtype": "expedition_nl_currency",
   "potion_value_status": "granted",
+
   "potion_progress_key_mission": "MissionPoints",
   "potion_progress_key_nonaccumulated": "NonAccumulatedPoints"
 }
