@@ -1,6 +1,5 @@
 {
   "status": "show",
-
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "MỤC TIÊU",
@@ -78,24 +77,20 @@
 
   "token_enabled": true,
   "token_progress_enabled": true,
-
   "token_key_accumulation_bars": "accumulationBarsById",
   "token_key_progress_bars": "ProgressBarsByID",
   "token_key_active_progress_bars": "ActiveProgressBarsID",
   "token_key_balance_data": "TokenWheelBalanceData",
   "token_key_token_balances": "TokenBalancesData",
-
   "token_progress_key_mission": "MissionPoints",
   "token_progress_key_nonaccumulated": "NonAccumulatedPoints",
   "token_progress_key_current_amount": "currentAmount",
   "token_progress_key_accumulation_value": "accumulationItemValue",
   "token_progress_key_target": "TargetPoints",
-
   "token_delta_key_amount_to_add": "amountToAdd",
   "token_delta_key_added_points": "addedPoints",
   "token_delta_key_points_added": "pointsAdded",
   "token_key_server_seq": "seq",
-
   "token_marker_wheel": "token_wheel",
   "token_marker_bars": "token-wheel-bars",
   "token_marker_gap": "com.token.gap",
