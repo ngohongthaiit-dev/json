@@ -1,18 +1,22 @@
 {
   "status": "show",
+
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "MỤC TIÊU",
   "fps_name": "NHTSPEED.IO.VN",
-  "moi_version": "3.5.2631",
+
+  "moi_version": "3.5.2620",
   "cu_version": "3.5.2620",
   "force_update": false,
+
   "update_url": "https://nhtspeed.io.vn/",
-  "alert_title": "CẬP NHẬT PHIÊN BẢN",
-  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng các bản sửa lỗi và tính năng mới.",
+  "alert_title": "Thông báo",
+  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để có trải nghiệm tốt hơn.",
   "btn_update_now": "Cập nhật",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
+
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
   "auto_build_enabled": true,
@@ -23,28 +27,34 @@
   "history_enabled": true,
   "fps_enabled": true,
   "theme_enabled": true,
+
   "target_sym_enabled": true,
   "target_bua_enabled": true,
   "target_heo_enabled": true,
   "target_spin_enabled": true,
   "target_thuoc_enabled": true,
+  "token_enabled": true,
   "target_token_enabled": true,
+
   "telegram_url": "https://t.me/nhtupdate",
   "website_url": "https://nhtspeed.io.vn/",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "zalo_admin_url": "https://zalo.me/ngohongthai97",
   "tele_admin_url": "https://t.me/nht1402",
   "certificate_url": "https://zalo.me/ngohongthai97",
+
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
   "intro_loading": "Đang bắt sym chờ xíu...",
-  "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
+
+  "logo_ngohongthai": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/logo.png",
   "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
   "icon_bua": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/bua.png",
   "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
   "icon_spin": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/spin.png",
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
   "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
+
   "potion_enabled": true,
   "potion_key_r1": "r1",
   "potion_key_r2": "r2",
@@ -63,21 +73,21 @@
   "potion_value_status": "granted",
   "potion_progress_key_mission": "MissionPoints",
   "potion_progress_key_nonaccumulated": "NonAccumulatedPoints",
+
   "spin_url_patterns": [
     {
-      "match_mode": "contains",
-      "schemes": [
-        "http",
-        "https"
-      ],
       "host_contains": [
         "moonactive",
         "vik-game"
       ],
-      "path_contains": "/spin"
+      "path_contains": "/spin",
+      "schemes": [
+        "http",
+        "https"
+      ]
     }
   ],
-  "token_enabled": true,
+
   "token_key_balance_data": "TokenWheelBalanceData",
   "token_key_accumulation_bars": "accumulationBarsById",
   "token_progress_key_mission": "MissionPoints",
