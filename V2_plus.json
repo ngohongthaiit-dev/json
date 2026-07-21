@@ -9,7 +9,7 @@
   "force_update": false,
   "update_url": "https://nhtspeed.io.vn/",
   "alert_title": "CẬP NHẬT PHIÊN BẢN",
-  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật ngay.",
+  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng các bản sửa lỗi và tính năng mới.",
   "btn_update_now": "Cập nhật",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
@@ -38,7 +38,7 @@
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
   "intro_loading": "Đang bắt sym chờ xíu...",
-  "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png"
+  "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png",
   "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
   "icon_bua": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/bua.png",
   "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
@@ -63,6 +63,20 @@
   "potion_value_status": "granted",
   "potion_progress_key_mission": "MissionPoints",
   "potion_progress_key_nonaccumulated": "NonAccumulatedPoints",
+  "spin_url_patterns": [
+    {
+      "match_mode": "contains",
+      "schemes": [
+        "http",
+        "https"
+      ],
+      "host_contains": [
+        "moonactive",
+        "vik-game"
+      ],
+      "path_contains": "/spin"
+    }
+  ],
   "token_enabled": true,
   "token_key_balance_data": "TokenWheelBalanceData",
   "token_key_accumulation_bars": "accumulationBarsById",
