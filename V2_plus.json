@@ -38,7 +38,7 @@
   "certificate_url": "https://zalo.me/ngohongthai97",
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_loading": "Đang khởi tạo dữ liệu...",
+  "intro_loading": "Đang bắt sym chờ xíu...",
   "logo_ngohongthai": "https://cdn.nhtspeed.io.vn/logo.png"
   "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
   "icon_bua": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/bua.png",
