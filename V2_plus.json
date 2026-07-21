@@ -1,6 +1,5 @@
 {
   "status": "show",
-
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "MỤC TIÊU",
@@ -9,10 +8,9 @@
   "moi_version": "3.5.2620",
   "cu_version": "3.5.2620",
   "force_update": false,
-
   "update_url": "https://nhtspeed.io.vn/",
-  "alert_title": "Thông báo",
-  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để có trải nghiệm tốt hơn.",
+  "alert_title": "CẬP NHẬT PHIÊN BẢN",
+  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để có trải nghiệm tốt nhất.",
   "btn_update_now": "Cập nhật",
   "btn_update_later": "Để sau",
   "btn_understood": "Đã hiểu",
@@ -45,7 +43,7 @@
 
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_loading": "Đang bắt sym chờ xíu...",
+  "intro_loading": "Đang khởi tạo dữ liệu...",
 
   "logo_ngohongthai": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/logo.png",
   "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
@@ -74,19 +72,7 @@
   "potion_progress_key_mission": "MissionPoints",
   "potion_progress_key_nonaccumulated": "NonAccumulatedPoints",
 
-  "spin_url_patterns": [
-    {
-      "host_contains": [
-        "moonactive",
-        "vik-game"
-      ],
-      "path_contains": "/spin",
-      "schemes": [
-        "http",
-        "https"
-      ]
-    }
-  ],
+  "spin_url_patterns": [],
 
   "token_key_balance_data": "TokenWheelBalanceData",
   "token_key_accumulation_bars": "accumulationBarsById",
