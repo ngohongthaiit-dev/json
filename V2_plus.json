@@ -9,7 +9,7 @@
   "force_update": false,
   "update_url": "https://nhtspeed.io.vn/",
   "alert_title": "CẬP NHẬT PHIÊN BẢN",
-  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để có trải nghiệm tốt nhất.",
+  "update_msg": "Đã có Phiên bản mới %@ Cập nhật ngay để có trải nghiệm tốt nhất.",
   "btn_update_now": "CẬP NHẬT",
   "btn_update_later": "ĐỂ SAU",
   "btn_understood": "ĐÃ HIỂU",
