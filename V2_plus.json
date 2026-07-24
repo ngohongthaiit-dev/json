@@ -59,11 +59,18 @@
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
   "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
 
+  "potion_key_r1": "r1",
+  "potion_key_r2": "r2",
+  "potion_key_r3": "r3",
+
+  "potion_progress_key_mission": "MissionPoints",
+  "potion_progress_key_nonaccumulated": "NonAccumulatedPoints",
+
   "potion_key_accumulation_bars": "accumulationBarsById",
   "potion_key_currency_full": "generic_currency_expedition_nl_currency",
   "potion_key_reward": "progressive_reward_pr_ec",
-  "potion_key_rewards": "genericRewards",
 
+  "potion_key_rewards": "genericRewards",
   "potion_key_type": "type",
   "potion_key_subtype": "subType",
   "potion_key_status": "status",
