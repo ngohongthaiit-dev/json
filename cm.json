@@ -1,31 +1,54 @@
 {
   "status": true,
-  "require_signature": false,
   "content_language": "vi",
-
-  "json_server": "https://json.iamnht2.nhtspeed.io.vn",
-  "json_server_fallback": "https://json.iamnht2.nhtspeed.io.vn/cm.json",
   "github_cm_json": "https://raw.githubusercontent.com/ngohongthaiit-dev/json/refs/heads/main/cm.json",
-  "server_role": "cloudflare_bootstrap",
-  "config_role": "github_full_keys",
 
-  "version": "3.5.2620",
-  "announcement_id": "iamnht_v2_3_5_2620",
+  "version": "3.5.2631",
+  "announcement_id": "iamnht_v2_3_5_2570",
   "force_update": false,
 
   "menu_name": "Speed by Ngô Hồng Thái",
   "fps_name": "NHTSPEED.IO.VN",
   "history_name": "I AM NHT",
   "auto_name": "Tự Động",
+  "speedmenu_title": "Speed by Ngô Hồng Thái",
 
   "history_button": "Lịch sử",
+  "history_button_en": "History",
   "speed1_button": "Speed 1",
+  "speed1_button_en": "Speed 1",
   "speed2_button": "Speed 2",
+  "speed2_button_en": "Speed 2",
   "round_count_button": "Đếm Vòng",
-  "color_button": "Chỉnh Màu",
+  "count_button_en": "Round Count",
+
   "auto_button": "Tự Động",
+  "auto_button_en": "Auto",
+
+  "btn_color": "Chỉnh Màu",
+  "btn_color_en": "Color",
+  "dock_color_button": "Chỉnh Màu",
   "menu_button": "MENU",
   "admin_button": "ADMIN",
+
+  "btn_hide_fps": "Ẩn FPS",
+  "btn_hide_fps_en": "Hide FPS",
+  "btn_show_fps": "Hiện FPS",
+  "btn_show_fps_en": "Show FPS",
+
+  "auto_input_button": "Nhập số",
+  "btn_set_value_en": "Input",
+  "btn_on": "Bật",
+  "btn_on_en": "On",
+  "btn_off": "Tắt",
+  "btn_off_en": "Off",
+
+  "btn_update": "Cập nhật",
+  "btn_telegram": "Kênh Telegram",
+  "btn_feedback_mail": "✉ Góp ý mail",
+  "btn_dvfb_mail": "✉ DVFB liên hệ",
+  "btn_zalo_admin": "Zalo Admin",
+  "btn_facebook_admin": "Facebook Admin",
 
   "show_update_alert": true,
   "notice_title": "Speed by Ngô Hồng Thái",
@@ -34,20 +57,45 @@
   "current_version_label": "Phiên bản hiện tại",
   "current_version_format": "%@ %@",
 
+  "btn_update_now": "Cập nhật ngay",
+  "btn_update_later": "Để sau",
+  "btn_understood": "ĐÃ HIỂU",
+
+  "show_notice_update_button": true,
+  "show_notice_later_button": true,
+
   "show_post_notice": true,
   "post_notice_title": "Update by Ngô Hồng Thái",
-  "post_notice_right_title": "Mua chứng chỉ cài Speed",
-  "post_notice_right_subtitle": " Liên hệ Zalo 0349 3333 97",
+  "post_notice_subtitle": "Mua chứng chỉ cài Speed • Zalo 0349 3333 97",
   "post_notice_duration": 5,
+  "post_notice_delay": 5,
 
   "update_url": "https://nhtspeed.io.vn",
-  "telegram_url": "https://t.me/nhtupdate",
-  "zalo_url": "https://zalo.me/ngohongthai97",
+  "telegram_update_url": "https://t.me/nhtupdate",
+  "zalo_admin_url": "https://zalo.me/ngohongthai97",
   "facebook_admin_url": "https://www.facebook.com/ngohongthai2k7",
   "community_box_url": "https://zalo.me/g/ccltdg215",
   "cert_url": "https://ccnht.io.vn/#plans",
 
-  "speed_presets": [9, 58, 128, 288],
-  "speed_min": 1,
-  "speed_max": 999
+  "feedback_email": "admin@nhtspeed.io.vn",
+  "dvfb_email": "ngohongthai@nhtspeed.io.vn",
+
+  "logo_url": "https://cdn.nhtspeed.io.vn/logo.png",
+
+  "speed_presets": [
+    9,
+    58,
+    128,
+    288
+  ],
+  "speed_max": 999,
+
+  "show_fps_default": true,
+  "history_mini_default": true,
+  "dock_expanded_default": true,
+  "smooth_mode_default": false,
+  "ultra_optimize_default": false,
+  "turbo_speed_default": false,
+
+  "dock_auto_collapse_seconds": 30
 }
