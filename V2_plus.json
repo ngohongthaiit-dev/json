@@ -49,7 +49,7 @@
 
   "intro_title": "Chào mừng bạn đến NHTSPEED",
   "intro_version_format": "Phiên bản %@ | NHTSPEED.IO.VN",
-  "intro_loading": "Đang khởi tạo dữ liệu...",
+  "intro_loading": "Đang bắt sym chờ xíu...",
 
   "icon_logo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/logo.png",
   "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
@@ -59,36 +59,5 @@
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
   "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
 
-  "potion_key_r1": "r1",
-  "potion_key_r2": "r2",
-  "potion_key_r3": "r3",
-
-  "potion_progress_key_mission": "MissionPoints",
-  "potion_progress_key_nonaccumulated": "NonAccumulatedPoints",
-
-  "potion_key_accumulation_bars": "accumulationBarsById",
-  "potion_key_currency_full": "generic_currency_expedition_nl_currency",
-  "potion_key_reward": "progressive_reward_pr_ec",
-
-  "potion_key_rewards": "genericRewards",
-  "potion_key_type": "type",
-  "potion_key_subtype": "subType",
-  "potion_key_status": "status",
-
-  "potion_value_type": "generic_currency",
-  "potion_value_subtype": "expedition_nl_currency",
-  "potion_value_status": "granted",
-
-  "spin_url_patterns": [],
-
-  "token_key_balance_data": "TokenWheelBalanceData",
-  "token_key_accumulation_bars": "accumulationBarsById",
-
-  "token_progress_key_mission": "MissionPoints",
-  "token_progress_key_current_amount": "CurrentAmount",
-  "token_progress_key_nonaccumulated": "NonAccumulatedPoints",
-  "token_progress_key_target": "TargetPoints",
-  "token_progress_key_amount_to_add": "AmountToAdd",
-  "token_progress_key_added_points": "AddedPoints",
-  "token_progress_key_points_added": "PointsAdded"
+  "spin_url_patterns": []
 }
