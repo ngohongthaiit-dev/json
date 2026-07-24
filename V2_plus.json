@@ -1,5 +1,6 @@
 {
   "status": "show",
+
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "TARGET",
@@ -8,6 +9,7 @@
   "moi_version": "3.5.2631",
   "cu_version": "3.5.2620",
   "force_update": false,
+
   "update_url": "https://nhtspeed.io.vn/",
   "alert_title": "CẬP NHẬT PHIÊN BẢN",
   "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng các bản sửa lỗi và tính năng mới.",
@@ -18,9 +20,11 @@
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
   "auto_build_enabled": true,
+
   "speed_enabled": true,
   "skip_enabled": true,
   "network_enabled": true,
+
   "target_enabled": true,
   "history_enabled": true,
   "fps_enabled": true,
@@ -31,6 +35,7 @@
   "target_heo_enabled": true,
   "target_spin_enabled": true,
   "target_thuoc_enabled": true,
+
   "token_enabled": true,
   "target_token_enabled": true,
   "potion_enabled": true,
@@ -58,9 +63,11 @@
   "potion_key_currency_full": "generic_currency_expedition_nl_currency",
   "potion_key_reward": "progressive_reward_pr_ec",
   "potion_key_rewards": "genericRewards",
+
   "potion_key_type": "type",
   "potion_key_subtype": "subType",
   "potion_key_status": "status",
+
   "potion_value_type": "generic_currency",
   "potion_value_subtype": "expedition_nl_currency",
   "potion_value_status": "granted",
@@ -69,6 +76,7 @@
 
   "token_key_balance_data": "TokenWheelBalanceData",
   "token_key_accumulation_bars": "accumulationBarsById",
+
   "token_progress_key_mission": "MissionPoints",
   "token_progress_key_current_amount": "CurrentAmount",
   "token_progress_key_nonaccumulated": "NonAccumulatedPoints",
