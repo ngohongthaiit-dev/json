@@ -1,18 +1,16 @@
 {
   "status": "show",
-
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "TARGET",
   "fps_name": "NHTSPEED.IO.VN",
-
   "moi_version": "3.5.2631",
   "cu_version": "3.5.2620",
   "force_update": false,
 
   "update_url": "https://nhtspeed.io.vn/",
   "alert_title": "CẬP NHẬT PHIÊN BẢN",
-  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng các bản sửa lỗi và tính năng mới.",
+  "update_msg": "Phiên bản mới %@ đã sẵn sàng cập nhật ngay để có trải nghiệm tốt hơn.",
   "btn_update_now": "CẬP NHẬT",
   "btn_update_later": "ĐỂ SAU",
   "btn_understood": "ĐÃ HIỂU",
@@ -56,5 +54,35 @@
   "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
   "icon_spin": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/spin.png",
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
-  "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png"
+  "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
+
+  "spin_url_patterns": "spin,slot,reward,rewards,payout,potion,expedition,mission,accumulation,progress,token_wheel,token-wheel,tokenwheel,game",
+  "potion_enabled": "on",
+  "potion_key_r1": "r1",
+  "potion_key_r2": "r2",
+  "potion_key_r3": "r3",
+  "potion_key_accumulation_bars": "accumulationBarsById",
+  "potion_key_currency_full": "generic_currency_expedition_nl_currency",
+  "potion_key_currency": "generic_currency",
+  "potion_key_reward": "progressive_reward_pr_ec",
+  "potion_key_rewards": "genericRewards",
+  "potion_key_rewards_alt": "rewards",
+  "potion_key_type": "type",
+  "potion_key_subtype": "subType",
+  "potion_key_status": "status",
+  "potion_value_type": "generic_currency",
+  "potion_value_subtype": "expedition_nl_currency",
+  "potion_value_status": "granted",
+  "potion_progress_key_mission": "MissionPoints",
+  "potion_progress_key_nonaccumulated": "NonAccumulatedPoints",
+
+  "token_detector_enabled": "off",
+  "token_exclude_markers": "sessiontoken,session_token,device_token,pushtoken,push_token,auth_token,access_token,refresh_token,firebase",
+  "token_markers": "com.token.gap,token.gap,tokengap,token_gap,tokenbarscore,token_bar_score,token_currency,token currency,tokencurrency,tokenamount,token_amount,tokenamountonbalance,token_amount_on_balance,tokenbar,tokensamount,tokenreward,token_reward,eventtoken,event_token,adventuretoken,tokenadventure,tokenquest,token_quest,thor_token,lightningtoken,lightning_token,##token,##m_token,token_wheel,token-wheel,tokenwheel,tokenbalancesdata,tokenwheelbalancedata,tokenwheelstatedata,tokenwheelevent,tokenwheelspecialevent,m_istokenwheelactive,lasttokenwheeleventid",
+  "token_progress_current_keys": "missionpoints,currentamount,current_amount,tokenbarscore,token_bar_score,tokenamountonbalance,token_amount_on_balance,tokenbalance,token_balance,accumulationitemvalue",
+  "token_progress_delta_keys": "nonaccumulatedpoints,amounttoadd,addedpoints,pointsadded",
+  "token_progress_max_keys": "maxamount,max_amount,targetamount,target_amount,totalamount,total_amount,requiredamount,required_amount,amountneeded,amount_needed",
+  "token_bar_container_keys": "commonResponses,CommonResponses,commonResponse,ProgressBarsByID,progressBarsByID,ActiveProgressBarsID,activeProgressBarsID,accumulationBarsById,AccumulationBarsById,BalanceData,balanceData,TokenWheelBalanceData,tokenWheelBalanceData",
+  "token_loose_current_keys": "amount,score,value,current,progress,balance",
+  "token_loose_max_keys": "max,goal,target,total,needed"
 }
