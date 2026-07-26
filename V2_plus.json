@@ -1,18 +1,22 @@
 {
   "status": "show",
+
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "MỤC TIÊU",
   "fps_name": "NHTSPEED.IO.VN",
+
   "version": "3.5.2633",
   "cu_version": "3.5.2633",
   "force_update": false,
   "update_url": "https://nhtspeed.io.vn/",
-  "alert_title": "CẬP NHẬT PHIÊN BẢN",
-  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng các bản sửa lỗi và tính năng mới.",
-  "btn_update_now": "CẬP NHẬT",
-  "btn_update_later": "ĐỂ SAU",
+
+  "alert_title": "Thông báo",
+  "update_msg": "Đã có phiên bản mới (v%@).\nHãy cập nhật để có trải nghiệm tốt nhất.",
+  "btn_update_now": "Cập nhật ngay",
+  "btn_update_later": "Để sau",
   "btn_understood": "ĐÃ HIỂU",
+
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
   "auto_build_enabled": true,
@@ -23,45 +27,45 @@
   "history_enabled": true,
   "fps_enabled": true,
   "theme_enabled": true,
+
   "target_sym_enabled": true,
   "target_bua_enabled": true,
   "target_heo_enabled": true,
   "target_spin_enabled": true,
+
   "token_enabled": true,
   "target_token_enabled": true,
   "token_detector_enabled": true,
-  "token_markers": [
-    "token",
-    "thor"
-  ],
-  "token_exclude_markers": [],
-  "token_progress_current_keys": [],
-  "token_progress_delta_keys": [],
-  "token_progress_max_keys": [],
-  "token_bar_container_keys": [],
-  "token_loose_current_keys": [],
-  "token_loose_max_keys": [],
+
   "telegram_url": "https://t.me/nhtupdate",
   "website_url": "https://nhtspeed.io.vn/",
   "zalo_group_url": "https://zalo.me/g/ccltdg215",
   "zalo_admin_url": "https://zalo.me/ngohongthai97",
   "tele_admin_url": "https://t.me/nht1402",
   "certificate_url": "https://zalo.me/ngohongthai97",
+
   "intro_title": "Chào mừng bạn đến NHTSPEED",
-  "intro_version": "Phiên bản %@",
-  "intro_loading": "Đang khởi tạo dữ liệu...",
+  "intro_version": "Phiên bản %@ | NHTSPEED.IO.VN",
+  "intro_loading": "Đang bắt sym chờ xíu...",
+
   "icon_logo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/logo.png",
   "icon_sym": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/sym.png",
   "icon_bua": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/bua.png",
   "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
   "icon_spin": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/spin.png",
-  "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
-  "spin_url_patterns": [
-    {
-      "domain": "vik-game.moonactive.net",
-      "api_path": "/api/v1/users/",
-      "endpoint": "/spin"
-    }
-  ]
+  "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
+
+  "token_markers": "spinblitz,spin_blitz,tokenwheel,token_wheel,tokenbalancesdata,token_balance,tokenbalance,lightning,thunder,flash,bolt,blitz,chopnhoang,chop_nhoang,token",
+
+  "token_exclude_markers": "sessiontoken,session_token,accesstoken,access_token,devicetoken,device_token,pushtoken,push_token,authenticationtoken,auth_token,integritytoken,invitertoken,/session/token,/access/token,/device/token,/push/token,/auth/token,/integrity/token,/inviter/token",
+
+  "token_progress_current_keys": "currentamount,current_amount,current,amount,value,progress",
+  "token_progress_delta_keys": "delta,increment,added,change,earned,rewardamount,reward_amount",
+  "token_progress_max_keys": "totalamount,total_amount,maxamount,max_amount,total,max,target,goal",
+
+  "token_bar_container_keys": "progressbar,progress_bar,progressbars,progress_bars,accumulation,milestone,activeprogressbarsid,progressbarsbyid,progress",
+
+  "token_loose_current_keys": "currentamount,current_amount,current,amount,value",
+  "token_loose_max_keys": "totalamount,total_amount,maxamount,max_amount,total,max,target,goal"
 }
