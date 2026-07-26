@@ -51,12 +51,4 @@
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
   "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
 
-  "token_markers": [],
-  "token_exclude_markers": [],
-  "token_progress_current_keys": [],
-  "token_progress_delta_keys": [],
-  "token_progress_max_keys": [],
-  "token_bar_container_keys": [],
-  "token_loose_current_keys": [],
-  "token_loose_max_keys": []
 }
