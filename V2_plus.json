@@ -1,29 +1,18 @@
 {
   "status": "show",
-
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "TARGET",
   "fps_name": "NHTSPEED.IO.VN",
-
-  "version": "3.5.2633",
-  "cu_version": "3.5.2633",
+  "cu_version": "3.5.2631",
   "force_update": false,
-
-  "update_url": "https://nhtspeed.io.vn/",
-  "alert_title": "CẬP NHẬT PHIÊN BẢN",
-  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng các bản sửa lỗi và tính năng mới.",
-  "btn_update_now": "CẬP NHẬT",
-  "btn_update_later": "ĐỂ SAU",
 
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
   "auto_build_enabled": true,
-
   "speed_enabled": true,
   "skip_enabled": true,
   "network_enabled": true,
-
   "target_enabled": true,
   "history_enabled": true,
   "fps_enabled": true,
@@ -33,11 +22,8 @@
   "target_bua_enabled": true,
   "target_heo_enabled": true,
   "target_spin_enabled": true,
-  "target_thuoc_enabled": true,
-  "target_token_enabled": true,
-
-  "token_enabled": true,
-  "token_detector_enabled": true,
+  "potion_enabled": true,
+  "target_potion_enabled": true,
 
   "telegram_url": "https://t.me/nhtupdate",
   "website_url": "https://nhtspeed.io.vn/",
@@ -52,5 +38,21 @@
   "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
   "icon_spin": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/spin.png",
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
-  "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png"
+  "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
+
+  "potion_domain": "vik-game.moonactive.net",
+  "potion_api_path": "/api/v1/users/",
+  "potion_endpoint": "/spin",
+  "potion_request_guard": "SpinInterceptorProtocolHandled",
+  "potion_r1_key": "r1",
+  "potion_r2_key": "r2",
+  "potion_r3_key": "r3",
+  "potion_generic_rewards_key": "genericRewards",
+  "potion_reward_type_key": "type",
+  "potion_reward_subtype_key": "subType",
+  "potion_reward_status_key": "status",
+  "potion_reward_type_value": "generic_currency",
+  "potion_reward_subtype_value": "expedition_nl_currency",
+  "potion_reward_status_value": "granted",
+  "potion_accumulation_bars_key": "accumulationBarsById"
 }
