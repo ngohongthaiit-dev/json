@@ -1,5 +1,6 @@
 {
   "status": "show",
+
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "TARGET",
@@ -14,14 +15,15 @@
   "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng các bản sửa lỗi và tính năng mới.",
   "btn_update_now": "CẬP NHẬT",
   "btn_update_later": "ĐỂ SAU",
-  "btn_understood": "ĐÃ HIỂU",
 
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
   "auto_build_enabled": true,
+
   "speed_enabled": true,
   "skip_enabled": true,
   "network_enabled": true,
+
   "target_enabled": true,
   "history_enabled": true,
   "fps_enabled": true,
@@ -31,9 +33,10 @@
   "target_bua_enabled": true,
   "target_heo_enabled": true,
   "target_spin_enabled": true,
+  "target_thuoc_enabled": true,
+  "target_token_enabled": true,
 
   "token_enabled": true,
-  "target_token_enabled": true,
   "token_detector_enabled": true,
 
   "telegram_url": "https://t.me/nhtupdate",
@@ -49,6 +52,5 @@
   "icon_heo": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/heo.png",
   "icon_spin": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/spin.png",
   "icon_thuoc": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/thuoc.png",
-  "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
-
+  "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png"
 }
