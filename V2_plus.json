@@ -10,6 +10,7 @@
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
   "auto_build_enabled": true,
+  "auto_pet_enabled": true,
   "speed_enabled": true,
   "skip_enabled": true,
   "network_enabled": true,
