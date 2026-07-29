@@ -5,7 +5,7 @@
   "auto_name": "TARGET",
   "fps_name": "NHTSPEED.IO.VN",
   "cu_version": "3.5.2631",
-  "force_update": false,
+  "force_update": true,
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
   "auto_build_enabled": true,
