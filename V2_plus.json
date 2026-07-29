@@ -1,6 +1,6 @@
 {
   "status": "show",
-  "menu_name": "Speed by Ngô Hồng Thái",
+  "menu_name": "Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "TARGET",
   "fps_name": "NHTSPEED.IO.VN",
@@ -25,6 +25,11 @@
   "target_spin_enabled": true,
   "potion_enabled": true,
   "target_potion_enabled": true,
+
+  "potion_urlprotocol_fallback": true,
+  "token_urlprotocol_fallback": true,
+  "potion_token_il2cpp_diagnostic": true,
+  "spin_transport_safe_delay": 6,
 
   "telegram_url": "https://t.me/nhtupdate",
   "website_url": "https://nhtspeed.io.vn/",
