@@ -18,6 +18,38 @@
   "auto_pet_enabled": true,
   "auto_magic_chest_enabled": true,
 
+  "auto_expedition_enabled": true,
+  "auto_expedition_config": {
+    "log_enabled": true,
+
+    "entry_probe_timeout_sec": 45.0,
+    "entry_result_timeout_sec": 4.0,
+    "scene_warmup_sec": 2.75,
+    "initial_select_delay_sec": 0.55,
+
+    "collect_start_delay_sec": 0.18,
+    "collect_timeout_sec": 4.0,
+    "upcoming_timeout_sec": 15.0,
+
+    "navigation_stall_sec": 2.0,
+    "recovery_recheck_sec": 0.75,
+
+    "collect_retry_delays_sec": [
+      0.0,
+      0.12,
+      0.24,
+      0.4,
+      0.65
+    ],
+    "collect_retry_max_attempts": 4,
+
+    "wheel_start_delay_sec": 0.35,
+    "wheel_press_hold_sec": 0.16,
+
+    "completed_popup_close_sec": 1.2,
+    "completed_popup_next_select_sec": 0.7
+  },
+
   "speed_enabled": true,
   "skip_enabled": true,
   "network_enabled": true,
@@ -68,6 +100,7 @@
   "ui_settings_title": "CÀI ĐẶT MENU",
   "ui_auto_magic_chest_title": "AUTO MUA RƯƠNG",
   "ui_auto_pet_title": "AUTO NÂNG X",
+  "ui_auto_expedition_title": "AUTO HOANG ĐỊA",
   "ui_fps_settings_title": "ĐỔI TÊN FPS",
   "ui_history_mini_title": "LỊCH SỬ MINI",
   "ui_theme_title": "CÀI ĐẶT CHỈNH MÀU",
@@ -81,6 +114,7 @@
 
   "ui_auto_magic_chest_subtitle": "Mua Rương Ma Thuật",
   "ui_auto_pet_subtitle": "Mồi X theo số vòng và reset X1 khi target thật xuất hiện",
+  "ui_auto_expedition_subtitle": "Tự động vào và chạy Hoang Địa đến khi hoàn tất",
   "ui_fps_settings_subtitle": "Bật, tắt hoặc đổi tên hiển thị FPS",
   "ui_history_mini_subtitle": "Hiện chung dưới MENU CHÍNH và SPEED MINI",
   "ui_theme_subtitle": "Màu panel, độ trong suốt và chế độ hệ thống",
