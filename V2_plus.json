@@ -73,8 +73,8 @@
   "speed_presets": [
     7,
     39,
-    58,
-    118
+    88,
+    188
   ],
 
   "telegram_url": "https://t.me/nhtupdate",
@@ -145,4 +145,4 @@
     "progressive_reward_pr_ec",
     "progressive_reward_pr_nl_ec_lv"
   ]
-}
+} 
