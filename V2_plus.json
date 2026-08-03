@@ -1,9 +1,11 @@
 {
   "status": "show",
+
   "menu_name": "Speed by Ngô Hồng Thái",
   "history_name": "LỊCH SỬ TỔNG",
   "auto_name": "TARGET",
   "fps_name": "NHTSPEED.IO.VN",
+
   "cu_version": "3.5.2631",
   "force_update": false,
 
@@ -72,7 +74,7 @@
 
   "speed_presets": [
     7,
-    39,
+    38,
     88,
     188
   ],
@@ -145,4 +147,4 @@
     "progressive_reward_pr_ec",
     "progressive_reward_pr_nl_ec_lv"
   ]
-} 
+}
