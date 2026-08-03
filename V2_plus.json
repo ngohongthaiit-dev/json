@@ -8,7 +8,7 @@
   "force_update": false,
 
   "alert_title": "Thông báo Cập nhật",
-  "update_msg": "Phiên bản mới %@ đã sẵn sàng.\nCập nhật để có trải nghiệm tốt nhất,",
+  "update_msg": "Phiên bản mới %@ đã sẵn sàng.\nCập nhật để có trải nghiệm tốt nhất.",
   "btn_update_later": "Để sau",
   "btn_update_now": "Cập nhật",
 
@@ -66,19 +66,14 @@
   "potion_enabled": true,
   "target_potion_enabled": true,
 
-  "token_enabled": true,
-  "target_token_enabled": true,
-  "token_detector_enabled": true,
-
   "potion_urlprotocol_fallback": true,
   "token_urlprotocol_fallback": true,
-  "potion_token_il2cpp_diagnostic": false,
   "spin_transport_safe_delay": 6,
 
   "speed_presets": [
     7,
     39,
-    88,
+    58,
     118
   ],
 
@@ -144,5 +139,10 @@
   "potion_reward_subtype_value": "expedition_nl_currency",
   "potion_reward_status_value": "granted",
 
-  "potion_accumulation_bars_key": "accumulationBarsById"
+  "potion_accumulation_bars_key": "accumulationBarsById",
+  "potion_bar_keys": [
+    "generic_currency_expedition_nl_currency",
+    "progressive_reward_pr_ec",
+    "progressive_reward_pr_nl_ec_lv"
+  ]
 }
