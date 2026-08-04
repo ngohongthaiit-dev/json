@@ -120,7 +120,6 @@
   "ui_settings_auto_hb_title": "AUTO HEO BÚA",
   "ui_settings_auto_target_title": "AUTO TARGET",
   "ui_settings_history_total_title": "LỊCH SỬ MENU CHÍNH",
-  "ui_settings_history_mini_title": "LỊCH SỬ SPEED MINI",
 
   "ui_settings_main_history_subtitle": "Hiện hàng lịch sử dưới MENU CHÍNH",
   "ui_settings_speed_history_subtitle": "Hiện hàng lịch sử trong SPEED MINI",
@@ -139,7 +138,6 @@
   "ui_zalo_admin_title": "ZALO ADMIN",
   "ui_telegram_admin_title": "TELEGRAM ADMIN",
 
-  "ui_speedmini_dock_speed_title": "SPEED",
   "ui_speedmini_dock_count_title": "ĐẾM",
   "ui_speedmini_dock_history_total_title": "LỊCH SỬ TỔNG",
   "ui_speedmini_dock_history_mini_title": "LỊCH SỬ MINI",
