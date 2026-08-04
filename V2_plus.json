@@ -67,8 +67,8 @@
   "theme_enabled": true,
 
   "speedmini_dock_enabled": true,
-  "speedmini_dock_quick_collapse_sec": 10.0,
-  "speedmini_dock_handle_collapse_sec": 15.0,
+  "speedmini_dock_quick_collapse_sec": 12.0,
+  "speedmini_dock_handle_collapse_sec": 20.0,
 
   "target_sym_enabled": true,
   "target_bua_enabled": true,
