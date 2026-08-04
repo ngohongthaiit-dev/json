@@ -13,6 +13,7 @@
   "update_msg": "Phiên bản mới %@ đã sẵn sàng.\nCập nhật để có trải nghiệm tốt nhất.",
   "btn_update_later": "Để sau",
   "btn_update_now": "Cập nhật",
+  "btn_understood": "ĐÃ HIỂU",
 
   "auto_heo_enabled": true,
   "auto_bua_enabled": true,
@@ -33,7 +34,8 @@
     "collect_timeout_sec": 4.0,
     "upcoming_timeout_sec": 15.0,
 
-    "navigation_stall_sec": 2.0,
+    "attack_transit_timeout_sec": 15.0,
+    "navigation_stall_sec": 15.0,
     "recovery_recheck_sec": 0.75,
 
     "collect_retry_delays_sec": [
@@ -43,13 +45,17 @@
       0.4,
       0.65
     ],
-    "collect_retry_max_attempts": 4,
+    "collect_retry_max_attempts": 1,
 
     "wheel_start_delay_sec": 0.35,
     "wheel_press_hold_sec": 0.16,
 
     "completed_popup_close_sec": 1.2,
-    "completed_popup_next_select_sec": 0.7
+    "completed_popup_next_select_sec": 0.7,
+
+    "out_of_currency_alert_title": "AUTO HOANG ĐỊA",
+    "out_of_currency_alert_message": "Bạn đã hết lúa rồi hãy đi bắt Sym đi bạn ơi",
+    "out_of_currency_alert_button": "Đã hiểu"
   },
 
   "speed_enabled": true,
@@ -100,14 +106,24 @@
 
   "ui_settings_title": "CÀI ĐẶT MENU",
 
+  "ui_settings_section_features_title": "TÍNH NĂNG",
+  "ui_settings_section_display_title": "HIỂN THỊ",
+  "ui_settings_section_support_title": "HỖ TRỢ",
+  "ui_settings_section_contact_title": "Liên hệ",
+  "ui_settings_footer_contact": "Mua chứng chỉ cài speed Zalo 0349 3333 97",
+
   "ui_settings_target_title": "TARGET",
   "ui_settings_speed_title": "SPEED X",
   "ui_settings_count_title": "ĐẾM",
   "ui_settings_speedmini_title": "SPEED MINI",
   "ui_settings_auto_build_title": "XÂY NHÀ",
   "ui_settings_auto_hb_title": "AUTO HEO BÚA",
+  "ui_settings_auto_target_title": "AUTO TARGET",
   "ui_settings_history_total_title": "LỊCH SỬ MENU CHÍNH",
   "ui_settings_history_mini_title": "LỊCH SỬ SPEED MINI",
+
+  "ui_settings_main_history_subtitle": "Hiện hàng lịch sử dưới MENU CHÍNH",
+  "ui_settings_speed_history_subtitle": "Hiện hàng lịch sử trong SPEED MINI",
 
   "ui_auto_magic_chest_title": "AUTO MUA RƯƠNG",
   "ui_auto_pet_title": "AUTO NÂNG X",
@@ -129,6 +145,7 @@
   "ui_speedmini_dock_history_mini_title": "LỊCH SỬ MINI",
   "ui_speedmini_dock_auto_build_title": "AUTO XÂY NHÀ",
   "ui_speedmini_dock_auto_hb_title": "AUTO HEO BÚA",
+  "ui_speedmini_dock_auto_target_title": "AUTO TARGET",
   "ui_speedmini_dock_auto_chest_title": "AUTO RƯƠNG",
   "ui_speedmini_dock_auto_expedition_title": "AUTO PỊA",
   "ui_speedmini_dock_auto_pet_title": "AUTO X",
