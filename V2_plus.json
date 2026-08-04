@@ -60,6 +60,10 @@
   "fps_enabled": true,
   "theme_enabled": true,
 
+  "speedmini_dock_enabled": true,
+  "speedmini_dock_quick_collapse_sec": 10.0,
+  "speedmini_dock_handle_collapse_sec": 15.0,
+
   "target_sym_enabled": true,
   "target_bua_enabled": true,
   "target_heo_enabled": true,
@@ -108,6 +112,10 @@
   "ui_certificate_title": "MUA CHỨNG CHỈ",
   "ui_zalo_admin_title": "ZALO ADMIN",
   "ui_telegram_admin_title": "TELEGRAM ADMIN",
+
+  "ui_speedmini_dock_target_title": "TARGET",
+  "ui_speedmini_dock_history_total_title": "LỊCH SỬ TỔNG",
+  "ui_speedmini_dock_history_mini_title": "LỊCH SỬ MINI",
 
   "ui_auto_magic_chest_subtitle": "Mua Rương Ma Thuật",
   "ui_auto_pet_subtitle": "Mồi X theo số vòng và reset X1 khi target thật xuất hiện",
