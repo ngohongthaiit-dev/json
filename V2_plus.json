@@ -99,6 +99,16 @@
   "icon_token": "https://pub-e4b5fd75401e4b718c4f8a001a77c850.r2.dev/token.png",
 
   "ui_settings_title": "CÀI ĐẶT MENU",
+
+  "ui_settings_target_title": "TARGET",
+  "ui_settings_speed_title": "SPEED X",
+  "ui_settings_count_title": "ĐẾM",
+  "ui_settings_speedmini_title": "SPEED MINI",
+  "ui_settings_auto_build_title": "XÂY NHÀ",
+  "ui_settings_auto_hb_title": "AUTO HEO BÚA",
+  "ui_settings_history_total_title": "LỊCH SỬ MENU CHÍNH",
+  "ui_settings_history_mini_title": "LỊCH SỬ SPEED MINI",
+
   "ui_auto_magic_chest_title": "AUTO MUA RƯƠNG",
   "ui_auto_pet_title": "AUTO NÂNG X",
   "ui_auto_expedition_title": "AUTO HOANG ĐỊA",
@@ -114,8 +124,21 @@
   "ui_telegram_admin_title": "TELEGRAM ADMIN",
 
   "ui_speedmini_dock_target_title": "TARGET",
+  "ui_speedmini_dock_speed_title": "SPEED",
+  "ui_speedmini_dock_count_title": "ĐẾM",
   "ui_speedmini_dock_history_total_title": "LỊCH SỬ TỔNG",
   "ui_speedmini_dock_history_mini_title": "LỊCH SỬ MINI",
+  "ui_speedmini_dock_auto_build_title": "AUTO XÂY NHÀ",
+  "ui_speedmini_dock_auto_hb_title": "AUTO HEO BÚA",
+  "ui_speedmini_dock_auto_chest_title": "AUTO RƯƠNG",
+  "ui_speedmini_dock_auto_expedition_title": "AUTO HOANG ĐỊA",
+  "ui_speedmini_dock_auto_pet_title": "AUTO X",
+  "ui_speedmini_dock_theme_title": "CHỈNH MÀU",
+  "ui_speedmini_dock_fps_title": "ĐỔI TÊN FPS",
+  "ui_speedmini_dock_zalo_admin_title": "ZALO ADMIN",
+  "ui_speedmini_dock_telegram_admin_title": "TELE ADMIN",
+  "ui_speedmini_dock_telegram_channel_title": "TELE CHANNEL",
+  "ui_speedmini_dock_update_title": "TẢI CẬP NHẬT",
 
   "ui_auto_magic_chest_subtitle": "Mua Rương Ma Thuật",
   "ui_auto_pet_subtitle": "Mồi X theo số vòng và reset X1 khi target thật xuất hiện",
