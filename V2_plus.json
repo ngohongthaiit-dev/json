@@ -123,7 +123,6 @@
   "ui_zalo_admin_title": "ZALO ADMIN",
   "ui_telegram_admin_title": "TELEGRAM ADMIN",
 
-  "ui_speedmini_dock_target_title": "TARGET",
   "ui_speedmini_dock_speed_title": "SPEED",
   "ui_speedmini_dock_count_title": "ĐẾM",
   "ui_speedmini_dock_history_total_title": "LỊCH SỬ TỔNG",
@@ -131,7 +130,7 @@
   "ui_speedmini_dock_auto_build_title": "AUTO XÂY NHÀ",
   "ui_speedmini_dock_auto_hb_title": "AUTO HEO BÚA",
   "ui_speedmini_dock_auto_chest_title": "AUTO RƯƠNG",
-  "ui_speedmini_dock_auto_expedition_title": "AUTO HOANG ĐỊA",
+  "ui_speedmini_dock_auto_expedition_title": "AUTO PỊA",
   "ui_speedmini_dock_auto_pet_title": "AUTO X",
   "ui_speedmini_dock_theme_title": "CHỈNH MÀU",
   "ui_speedmini_dock_fps_title": "ĐỔI TÊN FPS",
