@@ -1,30 +1,24 @@
 {
   "status": "show",
-
   "menu_name": "Ngô Hồng Thái",
-  "history_name": "LỊCH SỬ VÒNG",
+  "history_name": "Lịch sử vòng",
   "fps_name": "NHTSPEED.IO.VN",
-
-  "version": "3.5.0000",
-  "cu_version": "3.5.0000",
-
-  "update_url": "https://nhtspeed.io.vn/",
-  "force_update": false,
-  "alert_title": "CẬP NHẬT PHIÊN BẢN",
-  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng bản mới nhất.",
-  "btn_update_now": "CẬP NHẬT",
-  "btn_update_later": "ĐỂ SAU",
-
+  "version": "3.5.2651",
+  "cu_version": "3.5.2651",
   "target_enabled": true,
   "target_default": 1,
-
   "target_sym_enabled": true,
   "target_bua_enabled": true,
   "target_heo_enabled": true,
   "target_spin_enabled": true,
-
   "target_sym_name": "SYM",
   "target_bua_name": "BÚA",
   "target_heo_name": "HEO",
-  "target_spin_name": "SPIN"
+  "target_spin_name": "SPIN",
+  "update_url": "https://nhtspeed.io.vn",
+  "force_update": false,
+  "alert_title": "CẬP NHẬT PHIÊN BẢN",
+  "update_msg": "Phiên bản %@ đã sẵn sàng. Cập nhật để sử dụng bản mới nhất.",
+  "btn_update_now": "CẬP NHẬT",
+  "btn_update_later": "ĐỂ SAU"
 }
